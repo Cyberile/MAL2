@@ -82,11 +82,12 @@ export default class Sprite {
          * size to 16x16 if no width/height is specified.
          */
 
-        this.width = sprite.width ?? 96;
-        this.height = sprite.height ?? 96;
+        this.width = sprite.width;
+        this.height = sprite.height;
 
-        this.offsetX = sprite.offsetX ?? -96;
-        this.offsetY = sprite.offsetY ?? -96;
+        this.offsetX = sprite.offsetX ?? -16;
+        this.offsetY = sprite.offsetY ?? -16;
+
         // this.offsetAngle = sprite.offsetAngle ?? 0;
 
         this.idleSpeed = sprite.idleSpeed ?? 450;
