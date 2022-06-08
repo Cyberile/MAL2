@@ -2599,8 +2599,6 @@
 
   {
     "id": "clotharmor",
-    "width": 32,
-    "height": 32,
     "animations": {
       "atk_right": {
         "length": 5,
