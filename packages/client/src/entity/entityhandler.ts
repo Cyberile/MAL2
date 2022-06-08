@@ -1,4 +1,4 @@
-import { Packets, Opcodes } from '@kaetram/common/network';
+import { Opcodes, Packets } from '@kaetram/common/network';
 
 import Character from './character/character';
 
@@ -19,21 +19,56 @@ export default class EntityHandler {
         entity.onRequestPath((x, y) => {
             if (entity.gridX === x && entity.gridY === y) return [];
 
-            return game.findPath(entity, x, y);
+            let ignores = [entity];
+
+            return game.findPath(entity, x, y, ignores);
         });
 
         entity.onBeforeStep(() => entities.unregisterPosition(entity));
 
         entity.onStep(() => {
-            entities.registerPosition(entity);
+            entities.registerDuality(entity);
 
-            if (entity.isMob() && entity.targeted)
+            entity.forEachAttacker((attacker) => {
+                /**
+                 * This is the client-sided logic for representing PVP
+                 * fights. It basically adds another layer of movement
+                 * so the entity is always following the player.
+                 */
+
+                if (!entity.isPlayer()) return;
+
+                if (!attacker.isPlayer()) return;
+
+                if (!attacker.target) return;
+
+                if (attacker.target.id !== entity.id) return;
+
+                if (attacker.stunned) return;
+
+                attacker.follow(entity);
+            });
+
+            if (entity.isMob())
                 game.socket.send(Packets.Movement, {
                     opcode: Opcodes.Movement.Entity,
-                    targetInstance: entity.instance,
+                    targetInstance: entity.id,
                     requestX: entity.gridX,
                     requestY: entity.gridY
                 });
+            if (
+                entity.attackRange > 1 &&
+                entity.target &&
+                entity.getDistance(entity.target) <= entity.attackRange
+            )
+                entity.stop(false);
+        });
+
+        entity.onStopPathing(() => {
+            entities.grids.addToRenderingGrid(entity);
+
+            entities.unregisterPosition(entity);
+            entities.registerPosition(entity);
         });
     }
 
