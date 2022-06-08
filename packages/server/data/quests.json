@@ -1,0 +1,103 @@
+{
+  "tutorial": {
+    "name": "Welcome to MAL space",
+    "description": "Teaching you the very basics of MAL.",
+    "stages": {
+      "0": {
+        "task": "talk",
+        "npc": "coder",
+        "text": [
+          "Hello there, I am the programmer of this world.",
+          "You'll first need to complete this tutorial",
+          "before you can proceed.", "Do not worry, I coded it to be pretty short.",
+          "Off you go!"],
+        "completedText": ["Why don't you just walk through that door over there eh?"],
+        "pointer": {
+          "type": 0,
+          "x": 636,
+          "y": 20
+        }
+      },
+
+      "1": {
+        "task": "door",
+        "pointer": {
+          "type": 0,
+          "x": 636,
+          "y": 20
+        }
+      },
+
+      "2": {
+        "task": "talk",
+        "npc": "guard",
+        "text": [
+          "I see... a new Moon Ape.",
+          "Let me tell you a bit about the project.",
+          "But at first, You'll be killing stuff...",
+          "So for now, go kill 5 of them rats."
+        ],
+        "completedText": ["What are you waiting for?", "Kill some of them rats."],
+        "itemKey": "sword1",
+        "popup": {
+          "title": "Item acquired!",
+          "text": "You've just received a sword! Equip it using your inventory!",
+          "colour": "#33cc33"
+        },
+        "pointer": {
+          "type": 0,
+          "x": 333,
+          "y": 27
+        }
+      },
+
+      "3": {
+        "task": "kill",
+        "mob": ["rat"],
+        "mobCountRequirement": 5
+      },
+
+      "4": {
+        "task": "door",
+        "pointer": {
+          "type": 0,
+          "x": 655,
+          "y": 27
+        }
+      },
+
+      "5": {
+        "task": "talk",
+        "npc": "sorcerer",
+        "text": ["Sup there young one!", "I am a spooky mage in this Ship!", "Here, take this bow and kill 4 of those rats!"],
+        "completedText": ["Well then, hurry up and kill those rats.", "Then you can get out of here!"],
+        "itemKey": "woodenbow",
+        "popup": {
+          "title": "Item acquired!",
+          "text": "You've just received a bow! Equip it using your inventory!",
+          "colour": "#33cc33"
+        },
+        "pointer": {
+          "type": 0,
+          "x": 414,
+          "y": 21
+        }
+      },
+
+      "6": {
+        "task": "kill",
+        "mob": ["rat"],
+        "mobCountRequirement": 4
+      },
+
+      "7": {
+        "task": "door",
+        "pointer": {
+          "type": 0,
+          "x": 406,
+          "y": 19
+        }
+      }
+    }
+  }
+}

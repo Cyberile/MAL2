@@ -1,0 +1,202 @@
+{
+  "king": {
+    "name": "King"
+  },
+
+  "villagegirl": {
+    "name": "Azaria",
+    "text": ["Who are you?", "I feel as if we've met before, but I cannot remember."]
+  },
+
+  "villager": {
+    "name": "Bulk Bogan",
+    "text": ["Thank you kindly for the help, dear adventurer.", "I will ensure to contact you in the",
+          "nearby future regarding further adventures."]
+  },
+
+  "beachnpc": {
+    "name": "Bubba",
+    "text": ["Well, thanks for the help.", "Not really doing much but thanks regardless."]
+  },
+
+  "agent": {
+    "name": "Secret Agent"
+  },
+
+  "nyan": {
+    "name": "Nyan Cat (Stale Meme)"
+  },
+
+  "rick": {
+    "name": "Rick"
+  },
+
+  "priest": {
+    "name": "Priest"
+  },
+
+  "guard": {
+    "name": "Guard"
+  },
+
+  "scientist": {
+    "name": "Scientist"
+  },
+
+  "desertnpc": {
+    "name": "Billey"
+  },
+
+  "lavanpc": {
+    "name": "Dying Man"
+  },
+
+  "boxingman": {
+    "name": "Mike Tyson",
+    "text": ["Woosh."]
+  },
+
+  "vampire": {
+    "name": "Vampire"
+  },
+
+  "doctor": {
+    "name": "Doctor"
+  },
+
+  "oddeyecat": {
+    "name": "Odd-Eyed Cat"
+  },
+
+  "sorcerer": {
+    "name": "Sorcerer"
+  },
+
+  "coder": {
+    "name": "Programmer",
+    "text": ["Oh.. This is awkward...", "You may be wondering why I'm here as well.", "Well just letting you know..",
+            "It's definitely not because we're running low on pixel art..", "Regardless.. If you want to join the community",
+            "Our Discord <a target=\"_blank\" href=\"https://discord.gg/MmbGAaw\">is available here!</a>"]
+  },
+
+  "forestNpc": {
+    "name": "Forester"
+  },
+
+  "octocat": {
+    "name": "Octocat",
+    "text": ["Hey there!",
+            "I am the Octocat, the programmer and I",
+            "are very well acquainted.",
+            "In case you did not know, Kaetram is completely open-source.",
+            "You can <a target=\"_blank\" href=\"https://github.com/Kaetram/Kaetram-Open\">check out the source on GitHub!</a>"]
+  },
+
+  "soldier": {
+    "name": "Soldier"
+  },
+
+  "fisherman": {
+    "name": "Fisherman"
+  },
+
+  "octopus": {
+    "name": "Octopus"
+  },
+
+  "mermaidnpc": {
+    "name": "Mermaid"
+  },
+
+  "sponge": {
+    "name": "Picklebob"
+  },
+
+  "fairynpc": {
+    "name": "Fairy"
+  },
+
+  "shepherdboy": {
+    "name": "Shepherd Boy"
+  },
+
+  "zombiegf": {
+    "name": "Zombie Girlfriend"
+  },
+
+  "pirategirlnpc": {
+    "name": "Pirate Girl",
+    "text": ["Hi"]
+  },
+
+  "bluebikinigirlnpc": {
+    "name": "Pretzel"
+  },
+
+  "redbikinigirlnpc": {
+    "name": "Flaris"
+  },
+
+  "iamverycoldnpc": {
+    "name": "Babushka"
+  },
+
+  "iceelfnpc": {
+    "name": "Ice Elf"
+  },
+
+  "elfnpc": {
+    "name": "Elf"
+  },
+
+  "snowshepherdboy": {
+    "name": "Some Boy"
+  },
+
+  "angelnpc": {
+    "name": "Angel"
+  },
+
+  "momangelnpc": {
+    "name": "Archangel"
+  },
+
+  "superiorangelnpc": {
+    "name": "Mentor"
+  },
+
+  "firstsonangelnpc": {
+    "name": "Angel"
+  },
+
+  "secondsonangelnpc": {
+    "name": "Superior Angel"
+  },
+
+  "mojojojonpc": {
+    "name": "Monky"
+  },
+
+  "ancientmanumentnpc": {
+    "name": "Ancient Monument"
+  },
+
+  "vendingmachine": {
+    "name": "Enchantment Table",
+    "role": "enchanter"
+  },
+
+  "redstoremannpc": {
+    "name": "Banker",
+    "role": "banker"
+  },
+
+  "bluestoremannpc": {
+    "name": "Clerk",
+    "store": "startshop"
+  },
+
+  "royalguard": {
+    "name": "Royal Guard"
+  }
+}
