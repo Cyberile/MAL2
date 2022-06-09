@@ -2611,7 +2611,7 @@
         "row": 1
       },
       "idle_right": {
-        "length": 4,
+        "length": 2,
         "row": 2
       },
       "atk_up": {
@@ -2623,7 +2623,7 @@
         "row": 4
       },
       "idle_up": {
-        "length": 4,
+        "length": 2,
         "row": 5
       },
       "atk_down": {
@@ -2635,12 +2635,8 @@
         "row": 7
       },
       "idle_down": {
-        "length": 4,
+        "length": 2,
         "row": 8
-      },
-      "Group 5": {
-        "length": 3,
-        "row": 9
       }
     },
     "offsetX": -8,
