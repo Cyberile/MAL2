@@ -452,6 +452,8 @@ export default class Renderer {
      */
 
     private drawHoveringCell(): void {
+        if (this.mobile) return;
+
         let { input } = this.game,
             location = input.getCoords();
 
@@ -713,7 +715,7 @@ export default class Renderer {
         } else this.entitiesContext.translate(dx, dy);
 
         // Scale the entity to the current zoom factor.
-        // this.entitiesContext.scale(this.camera.zoomFactor, this.camera.zoomFactor);
+        this.entitiesContext.scale(this.camera.zoomFactor, this.camera.zoomFactor);
 
         // Scale the entity again if it has a custom scaling associated with it.
         if (entity.customScale) this.entitiesContext.scale(entity.customScale, entity.customScale);

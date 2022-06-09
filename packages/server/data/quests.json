@@ -1,7 +1,7 @@
 {
   "tutorial": {
-    "name": "Welcome to MAL space",
-    "description": "Teaching you the very basics of MAL.",
+    "name": "Welcome to Kaetram",
+    "description": "Teaching you the very basics of Kaetram.",
     "stages": {
       "0": {
         "task": "talk",
@@ -14,8 +14,8 @@
         "completedText": ["Why don't you just walk through that door over there eh?"],
         "pointer": {
           "type": 0,
-          "x": 636,
-          "y": 20
+          "x": 372,
+          "y": 38
         }
       },
 
@@ -23,8 +23,8 @@
         "task": "door",
         "pointer": {
           "type": 0,
-          "x": 636,
-          "y": 20
+          "x": 373,
+          "y": 45
         }
       },
 
@@ -32,9 +32,12 @@
         "task": "talk",
         "npc": "guard",
         "text": [
-          "I see... a new Moon Ape.",
-          "Let me tell you a bit about the project.",
-          "But at first, You'll be killing stuff...",
+          "I see... a new adventurer.",
+          "Let me tell you a bit about these lands.",
+          "You'll be killing stuff...",
+          "A lot of stuff actually...",
+          "And when you're not killing stuff...",
+          "You'll still be killing stuff!",
           "So for now, go kill 5 of them rats."
         ],
         "completedText": ["What are you waiting for?", "Kill some of them rats."],
@@ -61,15 +64,15 @@
         "task": "door",
         "pointer": {
           "type": 0,
-          "x": 655,
-          "y": 27
+          "x": 323,
+          "y": 23
         }
       },
 
       "5": {
         "task": "talk",
         "npc": "sorcerer",
-        "text": ["Sup there young one!", "I am a spooky mage in this Ship!", "Here, take this bow and kill 4 of those rats!"],
+        "text": ["Sup there young one!", "I am a spooky mage in this cave!", "Here, take this bow and kill 4 of those rats!"],
         "completedText": ["Well then, hurry up and kill those rats.", "Then you can get out of here!"],
         "itemKey": "woodenbow",
         "popup": {
