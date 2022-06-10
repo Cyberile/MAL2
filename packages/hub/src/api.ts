@@ -213,7 +213,7 @@ export default class API {
         let url = Utils.getUrl(server.host, server.apiPort, 'chat', true),
             data = {
                 accessToken: server.accessToken,
-                text,
+                text: Utils.parseMessage(text),
                 source,
                 colour
             };
