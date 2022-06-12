@@ -1574,6 +1574,7 @@ export default class Renderer {
         }, offset);
     }
 
+	document.addEventListener(‘scroll’, (e: Event) => e.preventDefault());
     /**
      * Iterates through each visible entity in the map boundaries and that
      * is present on the rendering grid.
