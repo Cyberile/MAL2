@@ -716,7 +716,7 @@ export default class Renderer {
         } else this.entitiesContext.translate(dx, dy);
 
         // Scale the entity to the current zoom factor.
-        // this.entitiesContext.scale(this.camera.zoomFactor, this.camera.zoomFactor);
+        this.entitiesContext.scale(this.camera.zoomFactor, this.camera.zoomFactor);
 
         // Scale the entity again if it has a custom scaling associated with it.
         if (entity.customScale) this.entitiesContext.scale(entity.customScale, entity.customScale);
@@ -1199,6 +1199,16 @@ export default class Renderer {
                 this.animatedTiles[index] = tile;
             }
         }, 2);
+    }
+
+    /**
+     * Temporary solution for synchronizing animated tiles.
+     */
+
+    public resetAnimatedTiles(): void {
+        _.each(this.animatedTiles, (tile: Tile) => {
+            tile.animationIndex = 0;
+        });
     }
 
     private drawCellRect(x: number, y: number, colour: string): void {
