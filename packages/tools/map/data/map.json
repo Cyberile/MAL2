@@ -36543,15 +36543,6 @@
                         }]
                 }, 
                 {
-                 "id":279,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
                  "id":280,
                  "properties":[
                         {
@@ -36885,33 +36876,6 @@
                         }]
                 }, 
                 {
-                 "id":317,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":318,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":319,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
                  "id":320,
                  "properties":[
                         {
@@ -37080,15 +37044,6 @@
                          "name":"type",
                          "type":"string",
                          "value":"ears_bat"
-                        }]
-                }, 
-                {
-                 "id":339,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
                         }]
                 }, 
                 {
@@ -37431,24 +37386,6 @@
                          "name":"type",
                          "type":"string",
                          "value":"mouth_lightsaberred"
-                        }]
-                }, 
-                {
-                 "id":378,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":379,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
                         }]
                 }, 
                 {
@@ -37925,70 +37862,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"\"hat_crowned"
-                        }]
-                }, 
-                {
-                 "id":433,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":"hat_halo"
-                        }]
-                }, 
-                {
-                 "id":434,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":435,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":436,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":437,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":438,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":439,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
+                         "value":"hat_crowned"
                         }]
                 }, 
                 {
@@ -38168,7 +38042,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"Red clothes_bodybuilderred"
+                         "value":"clothes_bodybuilderred"
                         }]
                 }, 
                 {
