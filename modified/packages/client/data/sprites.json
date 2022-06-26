@@ -12330,9 +12330,7 @@
     "offsetX": -23,
     "offsetY": -23
   },
-
-  
-  {
+    {
     "id": "adhererarcherarmor",
     "width": 32,
     "height": 32,
@@ -14932,8 +14930,8 @@
 
   {
     "id": "clotharmor",
-    "width": 96,
-    "height": 96,
+    "width": 32,
+    "height": 32,
     "animations": {
       "atk_right": {
         "length": 5,
@@ -14972,8 +14970,8 @@
         "row": 8
       }
     },
-    "offsetX": -23,
-    "offsetY": -23
+    "offsetX": -8,
+    "offsetY": -12
   },
 
   {

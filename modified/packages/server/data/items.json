@@ -1,0 +1,2998 @@
+{
+  "fur_green": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Green"
+  },
+
+  "fur_teal": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Teal"
+  },
+
+  "fur_darkgreen": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Dark Green"
+  },
+
+  "fur_maroon": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Maroon"
+  },
+
+  "fur_white": {
+    "defense": 1,
+    "type": "armour",
+    "name": "White"
+  },
+
+  "fur_bluejelly": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Blue Jelly"
+  },
+
+  "fur_brown": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Brown"
+  },
+
+  "fur_purplejelly": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Purple Jelly"
+  },
+
+  "fur_greenjelly": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Green Jelly"
+  },
+
+  "fur_redjelly": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Red Jelly"
+  },
+
+  "fur_black": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Black"
+  },
+
+  "fur_blackjelly": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Black Jelly"
+  },
+
+  "fur_neonjelly": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Neon Jelly"
+  },
+
+  "fur_tattooed": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Tattooed"
+  },
+
+  "fur_terminator": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Terminator"
+  },
+
+  "fur_whitetattooed": {
+    "defense": 1,
+    "type": "armour",
+    "name": "White Tattooed"
+  },
+
+  "fur_blackhole": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Blackhole"
+  },
+
+  "fur_skeletonblack": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Skeleton Black"
+  },
+
+  
+  "fur_matrix": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Matrix"
+  },
+
+    "eyes_eyes": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Eyes"
+    },
+
+    "eyes_aqua": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Aqua"
+    },
+
+    "eyes_ufo": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Ufo"
+    },
+
+    "eyes_jungle": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Jungle"
+    },
+
+    "eyes_astonished": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Astonished"
+    },
+
+    "eyes_greenpeace": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Greenpeace"
+    },
+
+    "eyes_shining": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Shining"
+    },
+
+    "eyes_tricky": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Tricky"
+    },
+
+    "eyes_scared": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Scared"
+    },
+
+    "eyes_sunglasses": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Sunglasses"
+    },
+
+    "eyes_bloody": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Bloody"
+    },
+
+    "eyes_shocked": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Shocked"
+    },
+
+    "eyes_tracking": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Tracking"
+    },
+
+    "eyes_rayban": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Rayban"
+    },
+
+    "eyes_angry": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Angry"
+    },
+
+    "eyes_sleepy": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Sleepy"
+    },
+
+    "eyes_redlinces": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Red Linces"
+    },
+
+    "eyes_pirate": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Pirate"
+    },
+
+    "eyes_blind": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Blind"
+    },
+
+    "eyes_chessplayer": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Chess Player"
+    },
+
+    "eyes_human": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Human"
+    },
+
+    "eyes_robotic": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Robotic"
+    },
+
+    "eyes_illusion": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Illusion"
+    },
+
+    "eyes_handsome": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Handsome"
+    },
+
+    "eyes_unreachables": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Unreachables"
+    },
+
+    "eyes_roundglasses": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Round Glasses"
+    },
+
+    "eyes_sutured": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Sutured"
+    },
+
+    "eyes_vr": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "VR"
+    },
+
+    "eyes_laserred": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Laser red"
+    },
+
+    "eyes_laserblue": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Laser Blue"
+    },
+
+    "eyes_redbull": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Redbull"
+    },
+
+    "eyes_lasergreen": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Laser Green"
+    },
+
+    "eyes_ringan": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Ringan"
+    },
+
+    "eyes_sunny": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Sunny"
+    },
+
+    "eyes_splinter": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Splinter"
+    },
+
+    "eyes_dope": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Dope"
+    },
+
+    "eyes_unreality": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Unreality"
+    },
+
+  "ears_regular": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Regular"
+  },
+
+  "ears_piercing": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Piercing"
+  },
+
+  "ears_locators": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Locators"
+  },
+
+  "ears_diamonds": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Diamonds"
+  },
+
+  "ears_mma": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "MMA"
+  },
+
+  "ears_minotaur": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Minotaur"
+  },
+
+  "ears_shells": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Shells"
+  },
+
+  "ears_shrekky": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Shrekky"
+  },
+
+  "ears_rose": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Rose"
+  },
+
+  "ears_tunnels": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Tunnels"
+  },
+
+  "ears_headphonesorange": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Headphones Orange"
+  },
+
+  "ears_roboticblue": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Robotic Blue"
+  },
+
+  "ears_hairyears": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Hairy Ears"
+  },
+
+  "ears_roboticorange": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Robotic Orange"
+  },
+
+  "ears_headphonesblue": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Headphones Blue"
+  },
+
+  "ears_dragon": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Dragon"
+  },
+
+  "ears_leafs": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Leafs"
+  },
+
+  "ears_butterfly": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Butterfly"
+  },
+
+  "ears_bat": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Bat"
+  },
+  
+
+    "mouth_unshavedsmoker": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Unshaved Smoker"
+    },
+  
+    "mouth_tired": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Tired"
+    },
+  
+    "mouth_neutralsmile": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Neutral Smile"
+    },
+  
+    "mouth_blunt": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Blunt"
+    },
+  
+    "mouth_moonmonth": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Moon Month"
+    },
+  
+    "mouth_spacecigarette": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Space Cigarette"
+    },
+  
+    "mouth_rabbittooth": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Rabbit Tooth"
+    },
+  
+    "mouth_wisemanbeard": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Wiseman Beard"
+    },
+  
+    "mouth_hotlips": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Hotlips"
+    },
+  
+    "mouth_redmaniacmask": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Red Maniac Mask"
+    },
+  
+    "mouth_hollywoodsmile": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Hollywood Smile"
+    },
+  
+    "mouth_maniacmask": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Maniac Mask"
+    },
+  
+    "mouth_hologrammask": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Hologram Mask"
+    },
+  
+    "mouth_boredunshaved": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Bored Shaved"
+    },
+  
+    "mouth_angry": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Angry"
+    },
+  
+    "mouth_respirator": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Respirator"
+    },
+  
+    "mouth_jokerface": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Joker Face"
+    },
+  
+    "mouth_energetic": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Energetic"
+    },
+  
+    "mouth_ethereumbrushedteeth": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Ethereum Brushed Teeth"
+    },
+  
+    "mouth_goldentooth": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Golden Tooth"
+    },
+  
+    "mouth_alienmask": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Alien Mask"
+    },
+  
+    "mouth_mustache": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Mustache"
+    },
+  
+    "mouth_euphoria": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Euphoria"
+    },
+  
+    "mouth_brushedteeth": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Brushed Teeth"
+    },
+  
+    "mouth_dirtymouth": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Dirty Mouth"
+    },
+  
+    "mouth_moonpipe": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Moon Pipe"
+    },
+  
+    "mouth_multicoloredbraces": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Multicolored Braces"
+    },
+  
+    "mouth_blueinkedtongue": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Blue Inked Tongue"
+    },
+  
+    "mouth_lightsaberblue": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Light Saber Blue"
+    },
+  
+    "mouth_mixofbubblegums": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Mix of Bubblegums"
+    },
+  
+    "mouth_toxicethereum": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Toxic Ethereum"
+    },
+  
+    "mouth_vampire": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Vampire"
+    },
+  
+    "mouth_ethereumtablet": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Ethereum Tablet"
+    },
+  
+    "mouth_rainbowsmile": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Rainbow Smile"
+    },
+  
+    "mouth_lightsabergreen": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Light Saber Green"
+    },
+  
+    "mouth_berrylover": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Berry Lover"
+    },
+  
+    "mouth_madmax": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "MadMax"
+    },
+  
+    "mouth_lightsaberred": {
+      "type": "weapon",
+      "attack": 2,
+      "name": "Light Saber Red"
+    },
+
+  "hat_nohat": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "No Hat"
+  },
+
+  "hat_baseballhat": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Baseball Hat"
+  },
+
+  "hat_beanieorange": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Beanie Orange"
+  },
+
+  "hat_miner": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Miner"
+  },
+
+  "Forces hat_moonforces": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Moon Forces"
+  },
+
+  "hat_nitro": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Nitro"
+  },
+
+  "hat_antman": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Antman"
+  },
+
+  "hat_pilot": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Pilot"
+  },
+
+  "hat_beaniepurple": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Beanie Purple"
+  },
+
+  "hat_madeinvietnam": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Made in Vietnam"
+  },
+
+  "hat_chritmas": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Chritmas"
+  },
+
+  "hat_airforce": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Airforce"
+  },
+
+  "hat_professor": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Professor"
+  },
+
+  "hat_captainmo": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Captain Mo"
+  },
+
+  "hat_frogster": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Frogster"
+  },
+
+  "hat_mushroomed": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Mushroomed"
+  },
+
+  "hat_tokyo": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Tokyo"
+  },
+
+  "hat_cutter": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Cutter"
+  },
+
+  "hat_hipsta": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Hipsta"
+  },
+
+  "hat_bananzaa": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Bananzaa"
+  },
+
+  "hat_harley": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Harley"
+  },
+
+  "hat_redbeanie": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Red Beanie"
+  },
+
+  "hat_modelhaircut": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Model Haircut"
+  },
+
+  "hat_taxidriver": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Taxi Driver"
+  },
+
+  "hat_gentleman": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Gentleman"
+  },
+
+  "hat_moonpolice": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Moon Police"
+  },
+
+  "hat_mozzart": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Mozzart"
+  },
+
+  "hat_traveller": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Traveller"
+  },
+
+  "hat_bleeding": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Bleeding"
+  },
+
+  "hat_tastybrainblue": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Tasty Brain Blue"
+  },
+
+  "hat_hairdresser": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Hairdesser"
+  },
+
+  "hat_unicorn": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Unicorn"
+  },
+
+  "hat_fishermanhat": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Fisherman Hat"
+  },
+
+  "hat_firehead": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Fire Head"
+  },
+
+  "hat_tastybrainred": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Tasty Brain Red"
+  },
+
+  "hat_icy": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Icy"
+  },
+
+  "hat_arabica": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Arabica"
+  },
+
+  "hat_punk": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Punk"
+  },
+
+  "hat_toxicmushroom": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Toxic Mushroom"
+  },
+
+  "hat_panama": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Panama"
+  },
+
+  "hat_robinhood": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Robinhood"
+  },
+
+  "hat_tastybraingreen": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Tasty Brain Green"
+  },
+
+  "hat_cybernetica": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Cybernetica"
+  },
+
+  "hat_exoticpunk": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Exotic Punk"
+  },
+
+  "hat_jokerhaircut": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Joker Haircut"
+  },
+
+  "hat_cryptocola": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Crypto Cola"
+  },
+
+  "hat_habib": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Habib"
+  },
+
+  "hat_kfced": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "KFCed"
+  },
+
+  "hat_rapper": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Rapper"
+  },
+
+  "hat_rasta": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Rasta"
+  },
+
+  "hat_southcentral": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "South Central"
+  },
+
+  "hat_halo": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Halo"
+  },
+
+  "hat_crowned": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Crowned"
+  },
+  
+
+ "clothes_naked": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Naked"
+},
+
+"clothes_sailor": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Sailor"
+},
+
+"clothes_bodybuilderyellow": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Bodybuilder Yellow"
+},
+
+"clothes_snake": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Snake"
+},
+
+"clothes_prisoner": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Prisoner"
+},
+
+"clothes_skeleton": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Skeleton"
+},
+
+"clothes_puffer": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Puffer"
+},
+
+"clothes_coatgreen": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Coat Green"
+},
+
+"clothes_hospital": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Hospital"
+},
+
+"clothes_coatblue": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Coat Blue"
+},
+
+"clothes_ironman": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Ironman"
+},
+
+"clothes_rocker": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Rocker"
+},
+
+"clothes_skinhead": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Skinhead"
+},
+
+"clothes_tick": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Tick"
+},
+
+"clothes_surfer": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Surfer"
+},
+
+"clothes_redguard": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Redguard"
+},
+
+"clothes_archer": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Archer"
+},
+
+"clothes_terrorist": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Terrorist"
+},
+
+"clothes_survival": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Survival"
+},
+
+"clothes_bodybuilderred": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Bodybuilder Red"
+},
+
+"clothes_amulet": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Amulet"
+},
+
+"clothes_napoleon": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Napoleon"
+},
+
+"clothes_nba": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "NBA"
+},
+
+"clothes_toretto": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Toretto"
+},
+
+"clothes_security": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Security"
+},
+
+"clothes_senseira": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Sensei Ra"
+},
+
+"clothes_senseiwu": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Sensei Wu"
+},
+
+"clothes_vicecity": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Vice City"
+},
+
+"clothes_senseimi": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Sensei Mi"
+},
+
+"clothes_clown": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Clown"
+},
+
+"clothes_456": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "456"
+},
+
+"clothes_bee": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Bee"
+},
+
+"clothes_mcd": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "MCD"
+},
+
+"clothes_jetpack": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Jetpack"
+},
+
+"clothes_mantis": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Mantis"
+},
+
+"clothes_muscular": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Muscular"
+},
+
+"clothes_greenpeacetee": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Greenpeace Tee"
+},
+
+"clothes_tabouret": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Tabouret"
+},
+
+"clothes_tiktok": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "TikTok"
+},
+
+"clothes_bdsm": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "BDSM"
+},
+
+"clothes_ninja": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Ninja"
+},
+
+"clothes_dragonfire": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Dragonfire"
+},
+
+"clothes_gentlemangreen": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Gentleman Green"
+},
+
+"clothes_mummy": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Mummy"
+},
+
+"clothes_mooncoat": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Moon Coat"
+},
+
+"clothes_bananajeans": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Banana Jeans"
+},
+
+"clothes_wallstreet": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Wallstreet"
+},
+
+"clothes_yoda": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Yoda"
+},
+
+"clothes_rugby": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Rugby"
+},
+
+"clothes_bigboss": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Bigboss"
+},
+
+"clothes_gentlemanblue": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Gentleman Blue"
+},
+
+"clothes_galaxy": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Galaxy"
+},
+
+"clothes_martian": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Martian"
+},
+
+"clothes_believe": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Believe"
+},
+
+"clothes_sparta": {
+  "type": "weapon",
+  "attack": 2,
+  "name": "Sparta"
+},
+
+  "sword2": {
+    "type": "weapon",
+    "attack": 2,
+    "name": "Heavy Sword",
+    "requirement": 2
+  },
+
+  "axe": {
+    "type": "weapon",
+    "attack": 3,
+    "name": "Axe",
+    "lumberjacking": 1
+  },
+
+  "morningstar": {
+    "type": "weapon",
+    "attack": 4,
+    "name": "Morning Star"
+  },
+
+  "bluesword": {
+    "type": "weapon",
+    "attack": 5,
+    "name": "Water Sword"
+  },
+
+  "redsword": {
+    "type": "weapon",
+    "attack": 6,
+    "name": "Fire Sword"
+  },
+
+  "goldensword": {
+    "type": "weapon",
+    "attack": 7,
+    "name": "Golden Sword"
+  },
+
+  "sidesword": {
+    "type": "weapon",
+    "attack": 8,
+    "name": "Side Sword"
+  },
+
+  "spear": {
+    "type": "weapon",
+    "attack": 9,
+    "name": "Silly Spear"
+  },
+
+  "scimitar": {
+    "type": "weapon",
+    "attack": 11,
+    "name": "Pirate's Scimitar"
+  },
+
+  "trident": {
+    "type": "weapon",
+    "attack": 11,
+    "name": "Trident Of The Seas"
+  },
+
+  "bluescimitar": {
+    "type": "weapon",
+    "attack": 12,
+    "name": "Blue Scimitar"
+  },
+
+  "hammer": {
+    "type": "weapon",
+    "attack": 13,
+    "name": "Hammer"
+  },
+
+  "greenlightsaber": {
+    "type": "weapon",
+    "attack": 14,
+    "name": "Green Light Saber"
+  },
+
+  "skylightsaber": {
+    "type": "weapon",
+    "attack": 15,
+    "name": "Sky Light Saber"
+  },
+
+  "redlightsaber": {
+    "type": "weapon",
+    "attack": 16,
+    "name": "Red Light Saber"
+  },
+
+  "bastardsword": {
+    "type": "weapon",
+    "attack": 17,
+    "name": "Heavy Sword"
+  },
+
+  "redmetalsword": {
+    "type": "weapon",
+    "attack": 18,
+    "name": "Red Metal Sword"
+  },
+
+  "justicehammer": {
+    "type": "weapon",
+    "attack": 19,
+    "name": "Justice Hammer"
+  },
+
+  "rose": {
+    "type": "weapon",
+    "attack": 20,
+    "name": "Rose"
+  },
+
+  "icerose": {
+    "type": "weapon",
+    "attack": 21,
+    "name": "Ice Rose"
+  },
+
+  "halberd": {
+    "type": "weapon",
+    "attack": 22,
+    "name": "Halberd"
+  },
+
+  "whip": {
+    "type": "weapon",
+    "attack": 23,
+    "name": "Whip"
+  },
+
+  "forestguardiansword": {
+    "type": "weapon",
+    "attack": 24,
+    "name": "Forest Guardian Sword"
+  },
+
+  "sickle": {
+    "type": "weapon",
+    "attack": 25,
+    "name": "Sickle"
+  },
+
+  "plunger": {
+    "type": "weapon",
+    "attack": 26,
+    "name": "Plunger"
+  },
+
+  "redsickle": {
+    "type": "weapon",
+    "attack": 27,
+    "name": "Red Sickle"
+  },
+
+  "daywalker": {
+    "type": "weapon",
+    "attack": 20,
+    "name": "Day Walker"
+  },
+
+  "purplecloudkallege": {
+    "type": "weapon",
+    "attack": 29,
+    "name": "Purple Cloud Kallege"
+  },
+
+  "searage": {
+    "type": "weapon",
+    "attack": 30,
+    "name": "Sea rage"
+  },
+
+  "breaker": {
+    "type": "weapon",
+    "attack": 31,
+    "name": "Breaker"
+  },
+
+  "eneltrident": {
+    "type": "weapon",
+    "attack": 45,
+    "name": "Enel Trident"
+  },
+
+  "rainbowsword": {
+    "type": "weapon",
+    "attack": 33,
+    "name": "Rainbow Sword"
+  },
+
+  "typhoon": {
+    "type": "weapon",
+    "attack": 34,
+    "name": "Typhoon"
+  },
+
+  "memme": {
+    "type": "weapon",
+    "attack": 35,
+    "name": "Memme"
+  },
+
+  "candybar": {
+    "type": "weapon",
+    "attack": 36,
+    "name": "Candy Bar"
+  },
+
+  "butcherknife": {
+    "type": "weapon",
+    "attack": 37,
+    "name": "Butcher Knife"
+  },
+
+  "fireshot": {
+    "type": "weapon",
+    "attack": 38,
+    "name": "Fire Shot"
+  },
+
+  "comb": {
+    "type": "weapon",
+    "attack": 39,
+    "name": "Comb"
+  },
+
+  "squeakyhammer": {
+    "type": "weapon",
+    "attack": 40,
+    "name": "Squeaky Hammer"
+  },
+
+  "fireplay": {
+    "type": "weapon",
+    "attack": 41,
+    "name": "Fire Play"
+  },
+
+  "weastaff": {
+    "type": "weapon",
+    "attack": 42,
+    "name": "Wea Staff"
+  },
+
+  "pinksword": {
+    "type": "weapon",
+    "attack": 43,
+    "name": "Pink Sword"
+  },
+
+  "conferencecall": {
+    "type": "weapon",
+    "attack": 70,
+    "name": "Stick"
+  },
+
+  "cactusaxe": {
+    "type": "weapon",
+    "attack": 9,
+    "name": "Cactus Axe",
+    "lumberjacking": 6
+  },
+
+  "goldaxe": {
+    "type": "weapon",
+    "attack": 14,
+    "name": "Gold Axe",
+    "lumberjacking": 7
+  },
+
+  "devilkazyasword": {
+    "type": "weapon",
+    "attack": 46,
+    "name": "Devil Kazya Sword"
+  },
+
+  "bamboospear": {
+    "type": "weapon",
+    "attack": 47,
+    "name": "Bamboo Spear"
+  },
+
+  "paewoldo": {
+    "type": "weapon",
+    "attack": 30,
+    "name": "Paewoldo"
+  },
+
+  "magicspear": {
+    "type": "weapon",
+    "attack": 49,
+    "name": "Magic Spear"
+  },
+
+  "firesword": {
+    "type": "weapon",
+    "attack": 50,
+    "name": "Fire Sword"
+  },
+
+  "pendant1": {
+    "type": "pendant",
+    "pendantLevel": 5,
+    "name": "Emerald Pendant"
+  },
+
+  "preenpendant": {
+    "type": "pendant",
+    "pendantLevel": 10,
+    "name": "Jade Pendant"
+  },
+
+  "pearlpendant": {
+    "type": "pendant",
+    "pendantLevel": 15,
+    "name": "Pearl Pendant"
+  },
+
+  "marblependant": {
+    "type": "pendant",
+    "pendantLevel": 25,
+    "name": "Diamond Pendant"
+  },
+
+  "ring1": {
+    "type": "ring",
+    "ringLevel": 5,
+    "name": "Emerald Ring"
+  },
+
+  "sproutring": {
+    "type": "ring",
+    "ringLevel": 10,
+    "name": "Sprout Ring"
+  },
+
+  "pearlring": {
+    "type": "ring",
+    "ringLevel": 15,
+    "name": "Pearl Ring"
+  },
+
+  "topazring": {
+    "type": "ring",
+    "ringLevel": 20,
+    "name": "Topaz Ring"
+  },
+
+  "spiritring": {
+    "type": "ring",
+    "ringLevel": 25,
+    "name": "Spirit Ring"
+  },
+
+  "essentialrage": {
+    "type": "ring",
+    "ringLevel": 35,
+    "name": "Essential Rage"
+  },
+
+  "armorarcher1": {
+    "defense": 1,
+    "type": "armourarcher",
+    "name": "Archer Armor",
+    "spriteName": "armorarcher"
+  },
+
+  "leatherarcherarmor": {
+    "defense": 2,
+    "type": "armourarcher",
+    "name": "Leather Archer Armour"
+  },
+
+  "mailarcherarmor": {
+    "defense": 3,
+    "type": "armourarcher",
+    "name": "Mail Archer Armour"
+  },
+
+  "platearcherarmor": {
+    "defense": 4,
+    "type": "armourarcher",
+    "name": "Plate Archer Armour"
+  },
+
+  "redarcherarmor": {
+    "defense": 5,
+    "type": "armourarcher",
+    "name": "Red Archer Armour"
+  },
+
+  "goldenarcherarmor": {
+    "defense": 6,
+    "type": "armourarcher",
+    "name": "Golden Archer Armour"
+  },
+
+  "greenarcherarmor": {
+    "defense": 7,
+    "type": "armourarcher",
+    "name": "Green Archer Armour"
+  },
+
+  "greenwingarcherarmor": {
+    "defense": 8,
+    "type": "armourarcher",
+    "name": "Green Wing Archer Armour"
+  },
+
+  "guardarcherarmor": {
+    "defense": 9,
+    "type": "armourarcher",
+    "name": "Guard Archer Armour"
+  },
+
+  "redguardarcherarmor": {
+    "defense": 10,
+    "type": "armourarcher",
+    "name": "Red Guard Archer Armour"
+  },
+
+  "whitearcherarmor": {
+    "defense": 11,
+    "type": "armourarcher",
+    "name": "White Archer Armour"
+  },
+
+  "ratarcherarmor": {
+    "defense": 12,
+    "type": "armourarcher",
+    "name": "Rat Archer Armour"
+  },
+
+  "piratearcherarmor": {
+    "defense": 13,
+    "type": "armourarcher",
+    "name": "Pirate Archer Armour"
+  },
+
+  "cheoliarcherarmor": {
+    "defense": 14,
+    "type": "armourarcher",
+    "name": "Cheolia Archer Armour"
+  },
+
+  "dovakinarcherarmor": {
+    "defense": 15,
+    "type": "armourarcher",
+    "name": "Dovakina Archer Armour"
+  },
+
+  "gbwingarcherarmor": {
+    "defense": 16,
+    "type": "armourarcher",
+    "name": "GbwingarcherArmour"
+  },
+
+  "redwingarcherarmor": {
+    "defense": 17,
+    "type": "armourarcher",
+    "name": "Red Wing Archer Armour"
+  },
+
+  "snowfoxarcherarmor": {
+    "defense": 18,
+    "type": "armourarcher",
+    "name": "Snow Fox Archer Armour"
+  },
+
+  "wolfarcherarmor": {
+    "defense": 18,
+    "type": "armourarcher",
+    "name": "Wolf Archer Armour"
+  },
+
+  "bluewingarcherarmor": {
+    "defense": 20,
+    "type": "armourarcher",
+    "name": "Blue Wing Archer Armour"
+  },
+
+  "fallenarcherarmor": {
+    "defense": 21,
+    "type": "armourarcher",
+    "name": "Fallen Archer Armour"
+  },
+
+  "crystalarcherarmor": {
+    "defense": 22,
+    "type": "armourarcher",
+    "name": "Crystal Archer Armour"
+  },
+
+  "legolasarmor": {
+    "defense": 23,
+    "type": "armourarcher",
+    "name": "Legolas Armour"
+  },
+
+  "adhererarcherarmor": {
+    "defense": 24,
+    "type": "armourarcher",
+    "name": "Adherer Archer Armour"
+  },
+
+  "archerschoolUniform": {
+    "defense": 25,
+    "type": "armourarcher",
+    "name": "Archer School Uniform"
+  },
+
+  "combatuniform": {
+    "defense": 26,
+    "type": "armourarcher",
+    "name": "Combat Uniform"
+  },
+
+  "gayarcherarmor": {
+    "defense": 27,
+    "type": "armourarcher",
+    "name": "Sketchy Archer Armour"
+  },
+
+  "woodenbow": {
+    "type": "weaponarcher",
+    "attack": 1,
+    "name": "Wooden Bow",
+    "requirement": 1
+  },
+
+  "plasticbow": {
+    "type": "weaponarcher",
+    "attack": 2,
+    "name": "Plastic Bow"
+  },
+
+  "ironbow": {
+    "type": "weaponarcher",
+    "attack": 3,
+    "name": "Iron Bow"
+  },
+
+  "redbow": {
+    "type": "weaponarcher",
+    "attack": 4,
+    "name": "Red Bow"
+  },
+
+  "violetbow": {
+    "type": "weaponarcher",
+    "attack": 5,
+    "name": "Violet Bow"
+  },
+
+  "deathbow": {
+    "type": "weaponarcher",
+    "attack": 6,
+    "name": "Death Bow"
+  },
+
+  "goldenbow": {
+    "type": "weaponarcher",
+    "attack": 7,
+    "name": "Golden Bow"
+  },
+
+  "watermelonbow": {
+    "type": "weaponarcher",
+    "attack": 8,
+    "name": "Watermelon Bow"
+  },
+
+  "greenbow": {
+    "type": "weaponarcher",
+    "attack": 9,
+    "name": "Greenbow"
+  },
+
+  "redenelbow": {
+    "type": "weaponarcher",
+    "attack": 30,
+    "name": "Redenel Bow"
+  },
+
+  "mermaidbow": {
+    "type": "weaponarcher",
+    "attack": 11,
+    "name": "Mermaid Bow"
+  },
+
+  "seahorsebow": {
+    "type": "weaponarcher",
+    "attack": 12,
+    "name": "Seahorse Bow"
+  },
+
+  "hunterbow": {
+    "type": "weaponarcher",
+    "attack": 13,
+    "name": "Hunter Bow"
+  },
+
+  "greenlightbow": {
+    "type": "weaponarcher",
+    "attack": 14,
+    "name": "Green Light Bow"
+  },
+
+  "skylightbow": {
+    "type": "weaponarcher",
+    "attack": 15,
+    "name": "Sky Light Bow"
+  },
+
+  "redlightbow": {
+    "type": "weaponarcher",
+    "attack": 16,
+    "name": "Red Light Bow"
+  },
+
+  "captainbow": {
+    "type": "weaponarcher",
+    "attack": 17,
+    "name": "Captain Bow"
+  },
+
+  "redmetalbow": {
+    "type": "weaponarcher",
+    "attack": 18,
+    "name": "Red Metal Bow"
+  },
+
+  "justicebow": {
+    "type": "weaponarcher",
+    "attack": 19,
+    "name": "Justice Bow"
+  },
+
+  "rosebow": {
+    "type": "weaponarcher",
+    "attack": 20,
+    "name": "Rose Bow"
+  },
+
+  "marinebow": {
+    "type": "weaponarcher",
+    "attack": 21,
+    "name": "Marine Bow"
+  },
+
+  "crystalbow": {
+    "type": "weaponarcher",
+    "attack": 22,
+    "name": "Crystal Bow"
+  },
+
+  "gaybow": {
+    "type": "weaponarcher",
+    "attack": 23,
+    "name": "Gay Bow"
+  },
+
+  "forestbow": {
+    "type": "weaponarcher",
+    "attack": 24,
+    "name": "Forest Bow"
+  },
+
+  "sicklebow": {
+    "type": "weaponarcher",
+    "attack": 25,
+    "name": "Sickle Bow"
+  },
+
+  "bloodbow": {
+    "type": "weaponarcher",
+    "attack": 26,
+    "name": "Blood Bow"
+  },
+
+  "redsicklebow": {
+    "type": "weaponarcher",
+    "attack": 27,
+    "name": "Red Sickle Bow"
+  },
+
+  "clotharmor": {
+    "defense": 1,
+    "type": "armour",
+    "name": "Cloth Armour"
+  },
+
+  "leatherarmor": {
+    "defense": 2,
+    "type": "armour",
+    "name": "Leather Armour"
+  },
+
+  "mailarmor": {
+    "defense": 3,
+    "type": "armour",
+    "name": "Chain Mail"
+  },
+
+  "platearmor": {
+    "defense": 4,
+    "type": "armour",
+    "name": "Steel Armour"
+  },
+
+  "redarmor": {
+    "defense": 5,
+    "type": "armour",
+    "name": "Ruby Armour"
+  },
+
+  "goldenarmor": {
+    "defense": 6,
+    "type": "armour",
+    "name": "Golden Armour"
+  },
+
+  "greenarmor": {
+    "defense": 7,
+    "type": "armour",
+    "name": "Green Armour"
+  },
+
+  "greenwingarmor": {
+    "defense": 8,
+    "type": "armour",
+    "name": "Green Wing Armour"
+  },
+
+  "guardarmor": {
+    "defense": 9,
+    "type": "armour",
+    "name": "Guard Armour"
+  },
+
+  "redguardarmor": {
+    "defense": 10,
+    "type": "armour",
+    "name": "Red Guard Armour"
+  },
+
+  "whitearmor": {
+    "defense": 11,
+    "type": "armour",
+    "name": "White Armour"
+  },
+
+  "ratarmor": {
+    "defense": 12,
+    "type": "armour",
+    "name": "Rat Armour"
+  },
+
+  "bluepiratearmor": {
+    "defense": 13,
+    "type": "armour",
+    "name": "Blue Pirate Armour"
+  },
+
+  "cheoliarmor": {
+    "defense": 14,
+    "type": "armour",
+    "name": "Cheoli Armour"
+  },
+
+  "dovakinarmor": {
+    "defense": 15,
+    "type": "armour",
+    "name": "Dovakin Armour"
+  },
+
+  "gbwingarmor": {
+    "defense": 16,
+    "type": "armour",
+    "name": "GB Wing Armour"
+  },
+
+  "redwingarmor": {
+    "defense": 17,
+    "type": "armour",
+    "name": "Red Wing Armour"
+  },
+
+  "snowfoxarmor": {
+    "defense": 18,
+    "type": "armour",
+    "name": "Snow Fox Armour"
+  },
+
+  "wolfarmor": {
+    "defense": 20,
+    "type": "armour",
+    "name": "Wolf Armour"
+  },
+
+  "bluewingarmor": {
+    "defense": 20,
+    "type": "armour",
+    "name": "Blue Wing Armour"
+  },
+
+  "thiefarmor": {
+    "defense": 21,
+    "type": "armour",
+    "name": "Thief Armour"
+  },
+
+  "ninjaarmor": {
+    "defense": 22,
+    "type": "armour",
+    "name": "Ninja Armour"
+  },
+
+  "dragonarmor": {
+    "defense": 48,
+    "type": "armour",
+    "name": "Dragon Armour"
+  },
+
+  "fallenarmor": {
+    "defense": 24,
+    "type": "armour",
+    "name": "Fallen Armour"
+  },
+
+  "paladinarmor": {
+    "defense": 25,
+    "type": "armour",
+    "name": "Paladin Armour"
+  },
+
+  "crystalarmor": {
+    "defense": 23,
+    "type": "armour",
+    "name": "Crystal Armour"
+  },
+
+  "adhererrobe": {
+    "defense": 27,
+    "type": "armour",
+    "name": "Adherer Robe"
+  },
+
+  "frostarmor": {
+    "defense": 28,
+    "type": "armour",
+    "name": "Frost Armour"
+  },
+
+  "gayarmor": {
+    "defense": 29,
+    "type": "armour",
+    "name": "Gay Armour"
+  },
+
+  "schooluniform": {
+    "defense": 30,
+    "type": "armour",
+    "name": "School Uniform"
+  },
+
+  "beautifullife": {
+    "defense": 31,
+    "type": "armour",
+    "name": "Beautiful Life"
+  },
+
+  "regionarmor": {
+    "defense": 37,
+    "type": "armour",
+    "name": "Region Armour"
+  },
+
+  "ghostrider": {
+    "defense": 33,
+    "type": "armour",
+    "name": "Ghost Rider"
+  },
+
+  "taekwondo": {
+    "defense": 34,
+    "type": "armour",
+    "name": "Taekwondo"
+  },
+
+  "rabbitarmor": {
+    "defense": 35,
+    "type": "armour",
+    "name": "Rabbit Armour",
+    "movementSpeed": 210
+  },
+
+  "portalarmor": {
+    "defense": 36,
+    "type": "armour",
+    "name": "Portal Armour"
+  },
+
+  "pirateKing": {
+    "defense": 37,
+    "type": "armour",
+    "name": "Pirate King"
+  },
+
+  "peadragonarmor": {
+    "defense": 38,
+    "type": "armour",
+    "name": "Sea Dragon Armour"
+  },
+
+  "shadowregionarmor": {
+    "defense": 39,
+    "type": "armour",
+    "name": "Shadow Region Armour"
+  },
+
+  "enelarmor": {
+    "defense": 50,
+    "type": "armour",
+    "name": "Enel Armour"
+  },
+
+  "miniseadragonarmor": {
+    "defense": 41,
+    "type": "armour",
+    "name": "Mini Sea Dragon Armour"
+  },
+
+  "huniarmor": {
+    "defense": 42,
+    "type": "armour",
+    "name": "Huni Armour"
+  },
+
+  "damboarmor": {
+    "defense": 43,
+    "type": "armour",
+    "name": "Dambo Armour"
+  },
+
+  "squidarmor": {
+    "defense": 44,
+    "type": "armour",
+    "name": "Squid Armour"
+  },
+
+  "beearmor": {
+    "defense": 45,
+    "type": "armour",
+    "name": "Bee Armour"
+  },
+
+  "bluedamboarmor": {
+    "defense": 46,
+    "type": "armour",
+    "name": "Blue Dambo Armour"
+  },
+
+  "rudolfarmor": {
+    "defense": 47,
+    "type": "armour",
+    "name": "Rudolf Armour"
+  },
+
+  "christmasarmor": {
+    "defense": 48,
+    "type": "armour",
+    "name": "Christmas Armour"
+  },
+
+  "robocoparmor": {
+    "defense": 49,
+    "type": "armour",
+    "name": "Robocop Armour"
+  },
+
+  "pinkcockroacharmor": {
+    "defense": 50,
+    "type": "armour",
+    "name": "Pink Cockroach Armour"
+  },
+
+  "cockroachSuit": {
+    "defense": 27,
+    "type": "armour",
+    "name": "Cockroach Suit"
+  },
+
+  "dinosaurarmor": {
+    "defense": 52,
+    "type": "armour",
+    "name": "Dinosaur Armour"
+  },
+
+  "catarmor": {
+    "defense": 18,
+    "type": "armour",
+    "name": "Cat Armour"
+  },
+
+  "snowmanarmor": {
+    "defense": 54,
+    "type": "armour",
+    "name": "Snowman Armour"
+  },
+
+  "beetlearmor": {
+    "defense": 55,
+    "type": "armour",
+    "name": "Beetle Armour"
+  },
+
+  "hongcheolarmor": {
+    "defense": 56,
+    "type": "armour",
+    "name": "Hongcheol Armour"
+  },
+
+  "tigerarmor": {
+    "defense": 49,
+    "type": "armour",
+    "name": "Tiger Armour"
+  },
+
+  "wizardrobe": {
+    "defense": 14,
+    "type": "armour",
+    "name": "Wizard Robe"
+  },
+
+  "ironknightarmor": {
+    "defense": 25,
+    "type": "armour",
+    "name": "Iron Knight Armour"
+  },
+
+  "evilarmor": {
+    "defense": 60,
+    "type": "armour",
+    "name": "Evil Armour"
+  },
+
+  "greendamboarmor": {
+    "defense": 61,
+    "type": "armour",
+    "name": "Green Dambo Armour"
+  },
+
+  "reddamboarmor": {
+    "defense": 62,
+    "type": "armour",
+    "name": "Red Dambo Armour"
+  },
+
+  "devilkazyaarmor": {
+    "defense": 63,
+    "type": "armour",
+    "name": "Devil Kazya Armour"
+  },
+
+  "bridalmask": {
+    "defense": 26,
+    "type": "armour",
+    "name": "Bridal Mask"
+  },
+
+  "blackspiderarmor": {
+    "defense": 65,
+    "type": "armour",
+    "name": "Black Spider Armour"
+  },
+
+  "frogarmor": {
+    "defense": 66,
+    "type": "armour",
+    "name": "Frog Armour"
+  },
+
+  "bearseonbiarmor": {
+    "defense": 67,
+    "type": "armour",
+    "name": "Bearseonbi Armour"
+  },
+
+  "rainbowapro": {
+    "defense": 68,
+    "type": "armour",
+    "name": "Rainbow A Pro"
+  },
+
+  "cokearmor": {
+    "defense": 69,
+    "type": "armour",
+    "name": "Coke Armour"
+  },
+
+  "friedpotatoarmor": {
+    "defense": 70,
+    "type": "armour",
+    "name": "Fried Potato Armour"
+  },
+
+  "burgerarmor": {
+    "defense": 71,
+    "type": "armour",
+    "name": "Burger Armour"
+  },
+
+  "radisharmor": {
+    "defense": 72,
+    "type": "armour",
+    "name": "Radish Armour"
+  },
+
+  "halloweenjkarmor": {
+    "defense": 73,
+    "type": "armour",
+    "name": "Halloween JK Armour"
+  },
+
+  "frankensteinarmor": {
+    "defense": 74,
+    "type": "armour",
+    "name": "Frankenstein Armour"
+  },
+
+  "adminarmor": {
+    "defense": 75,
+    "type": "armour",
+    "name": "Admin Armour"
+  },
+
+  "flask": {
+    "type": "object",
+    "name": "Flask [+100 HP]",
+    "storeCount": 10,
+    "price": 150,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 5,
+    "plugin": "healthflask",
+    "healAmount": 100
+  },
+
+  "cure": {
+    "type": "object",
+    "name": "Antidote",
+    "storeCount": 10,
+    "price": 150,
+    "stackable": false,
+    "edible": true,
+    "plugin": "poisoncure"
+  },
+
+  "manaflask": {
+    "type": "object",
+    "name": "Mana Flask [+35 MP]",
+    "storeCount": 10,
+    "price": 200,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 5,
+    "plugin": "healthflask",
+    "manaAmount": 35
+  },
+
+  "burger": {
+    "type": "object",
+    "name": "Burger [+200 HP]",
+    "storeCount": 10,
+    "price": 350,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 3,
+    "plugin": "healthflask",
+    "healAmount": 200
+  },
+
+  "bigflask": {
+    "type": "object",
+    "name": "Big Flask [+350 HP]",
+    "storeCount": 10,
+    "price": 600,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 2,
+    "plugin": "healthflask",
+    "healAmount": 500
+  },
+
+  "chest": {
+    "type": "object",
+    "name": "Chest"
+  },
+
+  "firepotion": {
+    "type": "object",
+    "name": "Fire Potion",
+    "stackable": true
+  },
+
+  "cake": {
+    "type": "object",
+    "name": "Cake [Quest]"
+  },
+
+  "book": {
+    "type": "object",
+    "name": "Book [Quest]"
+  },
+
+  "cd": {
+    "type": "object",
+    "name": "CD [Quest]"
+  },
+
+  "snowpotion": {
+    "type": "object",
+    "name": "Snow Potion",
+    "stackable": true
+  },
+
+  "royalazalea": {
+    "type": "object",
+    "name": "Royal Azalea"
+  },
+
+  "blackpotion": {
+    "type": "object",
+    "name": "Black Potion"
+  },
+
+  "gold": {
+    "type": "object",
+    "name": "Gold",
+    "stackable": true
+  },
+
+  "mountseadragon": {
+    "type": "object",
+    "name": "Mount Sea Dragon"
+  },
+
+  "mountforestdragon": {
+    "type": "object",
+    "name": "Mount Forest Dragon"
+  },
+
+  "mountwhitetiger": {
+    "type": "object",
+    "name": "Mount White Tiger"
+  },
+
+  "leafcommon": {
+    "spriteName": "leaf",
+    "type": "craft",
+    "name": "Leaf Common"
+  },
+
+  "leafuncommon": {
+    "spriteName": "leaf",
+    "type": "craft",
+    "name": "Leaf Uncommon"
+  },
+
+  "leafrare": {
+    "spriteName": "leaf",
+    "type": "craft",
+    "name": "Leaf Rare"
+  },
+
+  "branchcommon": {
+    "spriteName": "branch",
+    "type": "craft",
+    "name": "Branch Common"
+  },
+
+  "branchuncommon": {
+    "spriteName": "branch",
+    "type": "craft",
+    "name": "Branch Uncommon"
+  },
+
+  "branchrare": {
+    "spriteName": "branch",
+    "type": "craft",
+    "name": "Branch Rare"
+  },
+
+  "seedcommon": {
+    "spriteName": "seed",
+    "type": "craft",
+    "name": "Seed Common"
+  },
+
+  "seeduncommon": {
+    "spriteName": "seed",
+    "type": "craft",
+    "name": "Seed Uncommon"
+  },
+
+  "seedrare": {
+    "spriteName": "seed",
+    "type": "craft",
+    "name": "Seed Rare"
+  },
+
+  "clothcommon": {
+    "spriteName": "cloth",
+    "type": "craft",
+    "name": "Cloth Common"
+  },
+
+  "clothuncommon": {
+    "spriteName": "cloth",
+    "type": "craft",
+    "name": "Cloth Uncommon"
+  },
+
+  "clothcare": {
+    "spriteName": "cloth",
+    "type": "craft",
+    "name": "Cloth Rare"
+  },
+
+  "rockcommon": {
+    "spriteName": "rock",
+    "type": "craft",
+    "name": "Rock Common"
+  },
+
+  "rockuncommon": {
+    "spriteName": "rock",
+    "type": "craft",
+    "name": "Rock Uncommon"
+  },
+
+  "rockrare": {
+    "spriteName": "rock",
+    "type": "craft",
+    "name": "Rock Rare"
+  },
+
+  "mineralcommon": {
+    "spriteName": "mineral",
+    "type": "craft",
+    "name": "Mineral Common"
+  },
+
+  "mineraluncommon": {
+    "spriteName": "mineral",
+    "type": "craft",
+    "name": "Mineral Uncommon"
+  },
+
+  "mineralrare": {
+    "spriteName": "mineral",
+    "type": "craft",
+    "name": "Mineral Rare"
+  },
+
+  "elementcommon": {
+    "spriteName": "element",
+    "type": "craft",
+    "name": "Element Common"
+  },
+
+  "elementuncommon": {
+    "spriteName": "element",
+    "type": "craft",
+    "name": "Element Uncommon"
+  },
+
+  "elementrare": {
+    "spriteName": "element",
+    "type": "craft",
+    "name": "Element Rare"
+  },
+
+  "weaponhiltcommon": {
+    "spriteName": "weaponhilt",
+    "type": "craft",
+    "name": "Common Weapon Hilt"
+  },
+
+  "weaponhiltuncommon": {
+    "spriteName": "weaponhilt",
+    "type": "craft",
+    "name": "Uncommon Weapon Hilt"
+  },
+
+  "weaponhiltrare": {
+    "spriteName": "weaponhilt",
+    "type": "craft",
+    "name": "Rare Weapon Hilt"
+  },
+
+  "weaponbladecommon": {
+    "spriteName": "weaponblade",
+    "type": "craft",
+    "name": "Common Weapon Blade"
+  },
+
+  "beaponbladeuncommon": {
+    "spriteName": "weaponblade",
+    "type": "craft",
+    "name": "Uncommon Weapon Blade"
+  },
+
+  "beaponbladerare": {
+    "spriteName": "weaponblade",
+    "type": "craft",
+    "name": "Rare Weapon Blade"
+  },
+
+  "armorpatchcommon": {
+    "spriteName": "armorpatches",
+    "type": "craft",
+    "name": "Common Armor Patch"
+  },
+
+  "armorpatchuncommon": {
+    "spriteName": "armorpatches",
+    "type": "craft",
+    "name": "Uncommon Armor Patch"
+  },
+
+  "armorpatchrare": {
+    "spriteName": "armorpatches",
+    "type": "craft",
+    "name": "Rare Armor Patch"
+  },
+
+  "armorbindingcommon": {
+    "spriteName": "armorbinding",
+    "type": "craft",
+    "name": "Common Armor Binding"
+  },
+
+  "armorbindinguncommon": {
+    "spriteName": "armorbinding",
+    "type": "craft",
+    "name": "Uncommon Armor Binding"
+  },
+
+  "armorbindingrare": {
+    "spriteName": "armorbinding",
+    "type": "craft",
+    "name": "Rare Armor Binding"
+  },
+
+  "woodcommon": {
+    "spriteName": "wood",
+    "type": "craft",
+    "name": "Wood Common"
+  },
+
+  "wooduncommon": {
+    "spriteName": "wood",
+    "type": "craft",
+    "name": "Wood Uncommon"
+  },
+
+  "woodrare": {
+    "spriteName": "wood",
+    "type": "craft",
+    "name": "Wood Rare"
+  },
+
+  "weaponbowlimbcommon": {
+    "spriteName": "bowlimb",
+    "type": "craft",
+    "name": "Bow Limb Common"
+  },
+
+  "weaponbowlimbuncommon": {
+    "spriteName": "bowlimb",
+    "type": "craft",
+    "name": "Bow Limb Uncommon"
+  },
+
+  "weaponbowlimbrare": {
+    "spriteName": "bowlimb",
+    "type": "craft",
+    "name": "Bow Limb Rare"
+  },
+
+  "weaponbowstringcommon": {
+    "spriteName": "bowstring",
+    "type": "craft",
+    "name": "Bow String Common"
+  },
+
+  "weaponbowstringuncommon": {
+    "spriteName": "bowstring",
+    "type": "craft",
+    "name": "Bow String Uncommon"
+  },
+
+  "weaponbowstringrare": {
+    "spriteName": "bowstring",
+    "type": "craft",
+    "name": "Bow String Rare"
+  },
+
+  "sword1": {
+    "type": "weapon",
+    "attack": 1,
+    "name": "Sword",
+    "requirement": 1
+  },
+
+  "banana": {
+    "type": "object",
+    "name": "Banana"
+  },
+
+  "watermelon": {
+    "type": "object",
+    "name": "Watermelon"
+  },
+
+  "apple": {
+    "type": "object",
+    "name": "Apple"
+  },
+
+  "orange": {
+    "type": "object",
+    "name": "Orange"
+  },
+
+  "shardt1": {
+    "type": "object",
+    "name": "Shard - Tier 1",
+    "stackable": true
+  },
+
+  "shardt2": {
+    "type": "object",
+    "name": "Shard - Tier 2",
+    "stackable": true
+  },
+
+  "shardt3": {
+    "type": "object",
+    "name": "Shard - Tier 3",
+    "stackable": true
+  },
+
+  "shardt4": {
+    "type": "object",
+    "name": "Shard - Tier 4",
+    "stackable": true
+  },
+
+  "shardt5": {
+    "type": "object",
+    "name": "Shard - Tier 5",
+    "stackable": true
+  },
+
+  "ghost": {
+    "type": "armour",
+    "defense": 3,
+    "name": "Ghost"
+  },
+
+  "pickle": {
+    "type": "armour",
+    "defense": 20,
+    "name": "Pickle Armour"
+  },
+
+  "bluearmor": {
+    "defense": 6,
+    "type": "armour",
+    "name": "Crystal Armour"
+  },
+
+  "icesword": {
+    "type": "weapon",
+    "attack": 6,
+    "name": "Ice Sword"
+  },
+
+  "platinumsword": {
+    "type": "weapon",
+    "attack": 8,
+    "name": "Platinum Sword"
+  },
+
+  "platinumarmor": {
+    "defense": 7,
+    "type": "armour",
+    "name": "Platinum Armour"
+  },
+
+  "logs": {
+    "type": "object",
+    "name": "Logs",
+    "stackable": true,
+    "maxStackSize": 1,
+    "price": 10
+  },
+
+  "rustedaxe": {
+    "type": "weapon",
+    "attack": 4,
+    "name": "Rusted Axe",
+    "lumberjacking": 2
+  },
+
+  "fireaxe": {
+    "type": "weapon",
+    "attack": 5,
+    "name": "Fire Axe",
+    "lumberjacking": 3
+  },
+
+  "poisonaxe": {
+    "type": "weapon",
+    "attack": 6,
+    "name": "Poison Axe",
+    "lumberjacking": 4
+  },
+
+  "carnelianaxe": {
+    "type": "weapon",
+    "attack": 9,
+    "name": "Carnelian Axe",
+    "lumberjacking": 8
+  },
+
+  "palmlogs": {
+    "type": "object",
+    "name": "Palm Logs",
+    "stackable": true,
+    "maxStackSize": 1,
+    "price": 25
+  },
+
+  "icelogs": {
+    "type": "object",
+    "name": "Ice Logs",
+    "stackable": true,
+    "maxStackSize": 1,
+    "price": 35
+  },
+
+  "icepalmlogs": {
+    "type": "object",
+    "name": "Ice Palm Logs",
+    "stackable": true,
+    "maxStackSize": 1,
+    "price": 50
+  }
+
+}
