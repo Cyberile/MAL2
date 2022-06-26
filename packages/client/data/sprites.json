@@ -3092,6 +3092,8 @@
   },
 {
   "id": "item-ears_regular",
+  "width": 16,
+  "height": 16,
   "animations": {
     "idle": {
       "length": 6,
