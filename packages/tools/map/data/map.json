@@ -38150,7 +38150,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":""
+                         "value":"clothes_bee"
                         }]
                 }, 
                 {
@@ -38159,7 +38159,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_bee"
+                         "value":"clothes_mcd"
                         }]
                 }, 
                 {
@@ -38168,7 +38168,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_mcd"
+                         "value":"clothes_jetpack"
                         }]
                 }, 
                 {
@@ -38177,7 +38177,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_jetpack"
+                         "value":"clothes_mantis"
                         }]
                 }, 
                 {
@@ -38186,7 +38186,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_mantis"
+                         "value":"clothes_muscular"
                         }]
                 }, 
                 {
@@ -38195,7 +38195,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_muscular"
+                         "value":"clothes_greenpeacetee"
                         }]
                 }, 
                 {
@@ -38204,7 +38204,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_greenpeacetee"
+                         "value":"clothes_tabouret"
                         }]
                 }, 
                 {
@@ -38213,7 +38213,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_tabouret"
+                         "value":"clothes_tiktok"
                         }]
                 }, 
                 {
@@ -38222,7 +38222,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_tiktok"
+                         "value":"clothes_bdsm"
                         }]
                 }, 
                 {
@@ -38231,7 +38231,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_bdsm"
+                         "value":"clothes_ninja"
                         }]
                 }, 
                 {
@@ -38240,7 +38240,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_ninja"
+                         "value":"clothes_dragonfire"
                         }]
                 }, 
                 {
@@ -38249,7 +38249,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_dragonfire"
+                         "value":"clothes_gentlemangreen"
                         }]
                 }, 
                 {
@@ -38258,7 +38258,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_gentlemangreen"
+                         "value":"clothes_mummy"
                         }]
                 }, 
                 {
@@ -38267,7 +38267,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_mummy"
+                         "value":"clothes_mooncoat"
                         }]
                 }, 
                 {
@@ -38276,7 +38276,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_mooncoat"
+                         "value":"clothes_bananajeans"
                         }]
                 }, 
                 {
@@ -38285,7 +38285,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_bananajeans"
+                         "value":"clothes_wallstreet"
                         }]
                 }, 
                 {
@@ -38294,7 +38294,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_wallstreet"
+                         "value":"clothes_yoda"
                         }]
                 }, 
                 {
@@ -38303,7 +38303,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_yoda"
+                         "value":"clothes_rugby"
                         }]
                 }, 
                 {
@@ -38312,7 +38312,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_rugby"
+                         "value":"clothes_bigboss"
                         }]
                 }, 
                 {
@@ -38321,7 +38321,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_bigboss"
+                         "value":"clothes_gentlemanblue"
                         }]
                 }, 
                 {
@@ -38330,7 +38330,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_gentlemanblue"
+                         "value":"clothes_galaxy"
                         }]
                 }, 
                 {
@@ -38339,7 +38339,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_galaxy"
+                         "value":"clothes_martian"
                         }]
                 }, 
                 {
@@ -38348,7 +38348,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_martian"
+                         "value":"clothes_believe"
                         }]
                 }, 
                 {
@@ -38357,52 +38357,7 @@
                         {
                          "name":"type",
                          "type":"string",
-                         "value":"clothes_believe"
-                        }]
-                }, 
-                {
-                 "id":495,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
                          "value":"clothes_sparta"
-                        }]
-                }, 
-                {
-                 "id":496,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":497,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":498,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":499,
-                 "properties":[
-                        {
-                         "name":"type",
-                         "type":"string",
-                         "value":""
                         }]
                 }],
          "tilewidth":16
