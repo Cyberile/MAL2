@@ -703,7 +703,7 @@
     "name": "Miner"
   },
 
-  "Forces hat_moonforces": {
+  "hat_moonforces": {
     "type": "weapon",
     "attack": 2,
     "name": "Moon Forces"
