@@ -14,6 +14,8 @@
   },
   {
     "id": "item-fur_teal",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -25,6 +27,8 @@
   },
   {
     "id": "item-fur_darkgreen",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -36,6 +40,8 @@
   },
   {
     "id": "item-fur_maroon",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -47,6 +53,8 @@
   },
   {
     "id": "item-fur_white",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -58,6 +66,8 @@
   },
   {
     "id": "item-fur_bluejelly",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -69,6 +79,8 @@
   },
   {
     "id": "item-fur_brown",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -80,6 +92,8 @@
   },
   {
     "id": "item-fur_purplejelly",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -91,6 +105,8 @@
   },
   {
     "id": "item-fur_greenjelly",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -102,6 +118,8 @@
   },
   {
     "id": "item-fur_redjelly",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -113,6 +131,8 @@
   },
   {
     "id": "item-fur_black",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -124,6 +144,8 @@
   },
   {
     "id": "item-fur_blackjelly",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -135,6 +157,8 @@
   },
   {
     "id": "item-fur_neonjelly",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -146,6 +170,8 @@
   },
   {
     "id": "item-fur_tattooed",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -157,6 +183,8 @@
   },
   {
     "id": "item-fur_terminator",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -168,6 +196,8 @@
   },
   {
     "id": "item-fur_whitetattooed",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -179,6 +209,8 @@
   },
   {
     "id": "item-fur_blackhole",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -190,6 +222,8 @@
   },
   {
     "id": "item-fur_skeletonblack",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -201,6 +235,8 @@
   },
   {
     "id": "item-fur_matrix",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -1022,6 +1058,8 @@
   },
 {
   "id": "item-eyes_eyes",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1033,6 +1071,8 @@
 },
 {
   "id": "item-eyes_aqua",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1044,6 +1084,8 @@
 },
 {
   "id": "item-eyes_ufo",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1055,6 +1097,8 @@
 },
 {
   "id": "item-eyes_jungle",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1066,6 +1110,8 @@
 },
 {
   "id": "item-eyes_astonished",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1077,6 +1123,8 @@
 },
 {
   "id": "item-eyes_greenpeace",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1088,6 +1136,8 @@
 },
 {
   "id": "item-eyes_shining",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1099,6 +1149,8 @@
 },
 {
   "id": "item-eyes_tricky",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1110,6 +1162,8 @@
 },
 {
   "id": "item-eyes_scared",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1121,6 +1175,8 @@
 },
 {
   "id": "item-eyes_sunglasses",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1132,6 +1188,8 @@
 },
 {
   "id": "item-eyes_bloody",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1143,6 +1201,8 @@
 },
 {
   "id": "item-eyes_shocked",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1154,6 +1214,8 @@
 },
 {
   "id": "item-eyes_tracking",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1165,6 +1227,8 @@
 },
 {
   "id": "item-eyes_rayban",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1176,6 +1240,8 @@
 },
 {
   "id": "item-eyes_angry",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1187,6 +1253,8 @@
 },
 {
   "id": "item-eyes_sleepy",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1198,6 +1266,8 @@
 },
 {
   "id": "item-eyes_redlinces",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1209,6 +1279,8 @@
 },
 {
   "id": "item-eyes_pirate",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1220,6 +1292,8 @@
 },
 {
   "id": "item-eyes_blind",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1231,6 +1305,8 @@
 },
 {
   "id": "item-eyes_chessplayer",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1242,6 +1318,8 @@
 },
 {
   "id": "item-eyes_human",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1253,6 +1331,8 @@
 },
 {
   "id": "item-eyes_robotic",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1264,6 +1344,8 @@
 },
 {
   "id": "item-eyes_illusion",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1275,6 +1357,8 @@
 },
 {
   "id": "item-eyes_handsome",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1286,6 +1370,8 @@
 },
 {
   "id": "item-eyes_unreachables",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1297,6 +1383,8 @@
 },
 {
   "id": "item-eyes_roundglasses",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1308,6 +1396,8 @@
 },
 {
   "id": "item-eyes_sutured",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1319,6 +1409,8 @@
 },
 {
   "id": "item-eyes_vr",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1330,6 +1422,8 @@
 },
 {
   "id": "item-eyes_laserred",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1341,6 +1435,8 @@
 },
 {
   "id": "item-eyes_laserblue",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1352,6 +1448,8 @@
 },
 {
   "id": "item-eyes_redbull",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1363,6 +1461,8 @@
 },
 {
   "id": "item-eyes_lasergreen",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1374,6 +1474,8 @@
 },
 {
   "id": "item-eyes_ringan",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1385,6 +1487,8 @@
 },
 {
   "id": "item-eyes_sunny",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1396,6 +1500,8 @@
 },
 {
   "id": "item-eyes_splinter",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1407,6 +1513,8 @@
 },
 {
   "id": "item-eyes_dope",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -1418,6 +1526,8 @@
 },
 {
   "id": "item-eyes_unreality",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3094,6 +3204,8 @@
   },
 {
   "id": "item-ears_regular",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3105,6 +3217,8 @@
 },
 {
   "id": "item-ears_piercing",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3116,6 +3230,8 @@
 },
 {
   "id": "item-ears_locators",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3127,6 +3243,8 @@
 },
 {
   "id": "item-ears_diamonds",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3138,6 +3256,8 @@
 },
 {
   "id": "item-ears_mma",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3149,6 +3269,8 @@
 },
 {
   "id": "item-ears_minotaur",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3160,6 +3282,8 @@
 },
 {
   "id": "item-ears_shells",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3171,6 +3295,8 @@
 },
 {
   "id": "item-ears_shrekky",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3182,6 +3308,8 @@
 },
 {
   "id": "item-ears_rose",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3193,6 +3321,8 @@
 },
 {
   "id": "item-ears_tunnels",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3204,6 +3334,8 @@
 },
 {
   "id": "item-ears_headphonesorange",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3215,6 +3347,8 @@
 },
 {
   "id": "item-ears_roboticblue",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3226,6 +3360,8 @@
 },
 {
   "id": "item-ears_hairyears",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3237,6 +3373,8 @@
 },
 {
   "id": "item-ears_roboticorange",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3248,6 +3386,8 @@
 },
 {
   "id": "item-ears_headphonesblue",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3259,6 +3399,8 @@
 },
 {
   "id": "item-ears_dragon",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3270,6 +3412,8 @@
 },
 {
   "id": "item-ears_leafs",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3281,6 +3425,8 @@
 },
 {
   "id": "item-ears_butterfly",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -3292,6 +3438,8 @@
 },
 {
   "id": "item-ears_bat",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4158,6 +4306,8 @@
   },
 {
   "id": "item-mouth_unshavedsmoker",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4169,6 +4319,8 @@
 },
 {
   "id": "item-mouth_tired",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4180,6 +4332,8 @@
 },
 {
   "id": "item-mouth_neutralsmile",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4191,6 +4345,8 @@
 },
 {
   "id": "item-mouth_blunt",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4202,6 +4358,8 @@
 },
 {
   "id": "item-mouth_moonmonth",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4213,6 +4371,8 @@
 },
 {
   "id": "item-mouth_spacecigarette",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4224,6 +4384,8 @@
 },
 {
   "id": "item-mouth_rabbittooth",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4235,6 +4397,8 @@
 },
 {
   "id": "item-mouth_wisemanbeard",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4246,6 +4410,8 @@
 },
 {
   "id": "item-mouth_hotlips",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4257,6 +4423,8 @@
 },
 {
   "id": "item-mouth_redmaniacmask",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4268,6 +4436,8 @@
 },
 {
   "id": "item-mouth_hollywoodsmile",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4279,6 +4449,8 @@
 },
 {
   "id": "item-mouth_maniacmask",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4290,6 +4462,8 @@
 },
 {
   "id": "item-mouth_hologrammask",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4301,6 +4475,8 @@
 },
 {
   "id": "item-mouth_boredunshaved",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4312,6 +4488,8 @@
 },
 {
   "id": "item-mouth_angry",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4323,6 +4501,8 @@
 },
 {
   "id": "item-mouth_respirator",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4334,6 +4514,8 @@
 },
 {
   "id": "item-mouth_jokerface",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4345,6 +4527,8 @@
 },
 {
   "id": "item-mouth_energetic",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4356,6 +4540,8 @@
 },
 {
   "id": "item-mouth_ethereumbrushedteeth",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4367,6 +4553,8 @@
 },
 {
   "id": "item-mouth_goldentooth",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4378,6 +4566,8 @@
 },
 {
   "id": "item-mouth_alienmask",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4389,6 +4579,8 @@
 },
 {
   "id": "item-mouth_mustache",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4400,6 +4592,8 @@
 },
 {
   "id": "item-mouth_euphoria",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4411,6 +4605,8 @@
 },
 {
   "id": "item-mouth_brushedteeth",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4422,6 +4618,8 @@
 },
 {
   "id": "item-mouth_dirtymouth",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4433,6 +4631,8 @@
 },
 {
   "id": "item-mouth_moonpipe",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4444,6 +4644,8 @@
 },
 {
   "id": "item-mouth_multicoloredbraces",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4455,6 +4657,8 @@
 },
 {
   "id": "item-mouth_blueinkedtongue",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4466,6 +4670,8 @@
 },
 {
   "id": "item-mouth_lightsaberblue",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4477,6 +4683,8 @@
 },
 {
   "id": "item-mouth_mixofbubblegums",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4488,6 +4696,8 @@
 },
 {
   "id": "item-mouth_toxicethereum",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4499,6 +4709,8 @@
 },
 {
   "id": "item-mouth_vampire",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4510,6 +4722,8 @@
 },
 {
   "id": "item-mouth_ethereumtablet",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4521,6 +4735,8 @@
 },
 {
   "id": "item-mouth_rainbowsmile",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4532,6 +4748,8 @@
 },
 {
   "id": "item-mouth_lightsabergreen",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4543,6 +4761,8 @@
 },
 {
   "id": "item-mouth_berrylover",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4554,6 +4774,8 @@
 },
 {
   "id": "item-mouth_madmax",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -4565,6 +4787,8 @@
 },
 {
   "id": "item-mouth_lightsaberred",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6286,6 +6510,8 @@
   },
 {
   "id": "item-hat_nohat",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6297,6 +6523,8 @@
 },
 {
   "id": "item-hat_baseballhat",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6308,6 +6536,8 @@
 },
 {
   "id": "item-hat_beanieorange",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6319,6 +6549,8 @@
 },
 {
   "id": "item-hat_miner",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6330,6 +6562,8 @@
 },
 {
   "id": "item-hat_moonforces",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6341,6 +6575,8 @@
 },
 {
   "id": "item-hat_nitro",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6352,6 +6588,8 @@
 },
 {
   "id": "item-hat_antman",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6363,6 +6601,8 @@
 },
 {
   "id": "item-hat_pilot",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6374,6 +6614,8 @@
 },
 {
   "id": "item-hat_beaniepurple",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6385,6 +6627,8 @@
 },
 {
   "id": "item-hat_madeinvietnam",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6396,6 +6640,8 @@
 },
 {
   "id": "item-hat_chritmas",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6407,6 +6653,8 @@
 },
 {
   "id": "item-hat_airforce",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6418,6 +6666,8 @@
 },
 {
   "id": "item-hat_professor",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6429,6 +6679,8 @@
 },
 {
   "id": "item-hat_captainmo",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6440,6 +6692,8 @@
 },
 {
   "id": "item-hat_frogster",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6451,6 +6705,8 @@
 },
 {
   "id": "item-hat_mushroomed",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6462,6 +6718,8 @@
 },
 {
   "id": "item-hat_tokyo",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6473,6 +6731,8 @@
 },
 {
   "id": "item-hat_cutter",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6484,6 +6744,8 @@
 },
 {
   "id": "item-hat_hipsta",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6495,6 +6757,8 @@
 },
 {
   "id": "item-hat_bananzaa",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6506,6 +6770,8 @@
 },
 {
   "id": "item-hat_harley",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6517,6 +6783,8 @@
 },
 {
   "id": "item-hat_redbeanie",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6528,6 +6796,8 @@
 },
 {
   "id": "item-hat_modelhaircut",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6539,6 +6809,8 @@
 },
 {
   "id": "item-hat_taxidriver",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6550,6 +6822,8 @@
 },
 {
   "id": "item-hat_gentleman",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6561,6 +6835,8 @@
 },
 {
   "id": "item-hat_moonpolice",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6572,6 +6848,8 @@
 },
 {
   "id": "item-hat_mozzart",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6583,6 +6861,8 @@
 },
 {
   "id": "item-hat_traveller",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6594,6 +6874,8 @@
 },
 {
   "id": "item-hat_bleeding",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6605,6 +6887,8 @@
 },
 {
   "id": "item-hat_tastybrainblue",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6616,6 +6900,8 @@
 },
 {
   "id": "item-hat_hairdresser",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6627,6 +6913,8 @@
 },
 {
   "id": "item-hat_unicorn",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6638,6 +6926,8 @@
 },
 {
   "id": "item-hat_fishermanhat",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6649,6 +6939,8 @@
 },
 {
   "id": "item-hat_firehead",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6660,6 +6952,8 @@
 },
 {
   "id": "item-hat_tastybrainred",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6671,6 +6965,8 @@
 },
 {
   "id": "item-hat_icy",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6682,6 +6978,8 @@
 },
 {
   "id": "item-hat_arabica",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6693,6 +6991,8 @@
 },
 {
   "id": "item-hat_punk",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6704,6 +7004,8 @@
 },
 {
   "id": "item-hat_toxicmushroom",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6715,6 +7017,8 @@
 },
 {
   "id": "item-hat_panama",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6726,6 +7030,8 @@
 },
 {
   "id": "item-hat_robinhood",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6737,6 +7043,8 @@
 },
 {
   "id": "item-hat_tastybraingreen",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6748,6 +7056,8 @@
 },
 {
   "id": "item-hat_cybernetica",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6759,6 +7069,8 @@
 },
 {
   "id": "item-hat_exoticpunk",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6770,6 +7082,8 @@
 },
 {
   "id": "item-hat_jokerhaircut",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6781,6 +7095,8 @@
 },
 {
   "id": "item-hat_cryptocola",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6792,6 +7108,8 @@
 },
 {
   "id": "item-hat_habib",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6803,6 +7121,8 @@
 },
 {
   "id": "item-hat_kfced",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6814,6 +7134,8 @@
 },
 {
   "id": "item-hat_rapper",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6825,6 +7147,8 @@
 },
 {
   "id": "item-hat_rasta",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6836,6 +7160,8 @@
 },
 {
   "id": "item-hat_southcentral",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6847,6 +7173,8 @@
 },
 {
   "id": "item-hat_halo",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -6858,6 +7186,8 @@
 },
 {
   "id": "item-hat_crowned",
+  "width": 48,
+  "height": 48,
   "animations": {
     "idle": {
       "length": 6,
@@ -9254,6 +9584,8 @@
   },
   {
     "id": "item-clothes_naked",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9265,6 +9597,8 @@
   },
   {
     "id": "item-clothes_sailor",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9276,6 +9610,8 @@
   },
   {
     "id": "item-clothes_bodybuilderyellow",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9287,6 +9623,8 @@
   },
   {
     "id": "item-clothes_snake",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9298,6 +9636,8 @@
   },
   {
     "id": "item-clothes_prisoner",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9309,6 +9649,8 @@
   },
   {
     "id": "item-clothes_skeleton",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9320,6 +9662,8 @@
   },
   {
     "id": "item-clothes_puffer",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9331,6 +9675,8 @@
   },
   {
     "id": "item-clothes_coatgreen",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9342,6 +9688,8 @@
   },
   {
     "id": "item-clothes_hospital",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9353,6 +9701,8 @@
   },
   {
     "id": "item-clothes_coatblue",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9364,6 +9714,8 @@
   },
   {
     "id": "item-clothes_ironman",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9375,6 +9727,8 @@
   },
   {
     "id": "item-clothes_rocker",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9386,6 +9740,8 @@
   },
   {
     "id": "item-clothes_skinhead",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9397,6 +9753,8 @@
   },
   {
     "id": "item-clothes_tick",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9408,6 +9766,8 @@
   },
   {
     "id": "item-clothes_surfer",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9419,6 +9779,8 @@
   },
   {
     "id": "item-clothes_redguard",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9430,6 +9792,8 @@
   },
   {
     "id": "item-clothes_archer",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9441,6 +9805,8 @@
   },
   {
     "id": "item-clothes_terrorist",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9452,6 +9818,8 @@
   },
   {
     "id": "item-clothes_survival",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9463,6 +9831,8 @@
   },
   {
     "id": "item-clothes_bodybuilderred",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9474,6 +9844,8 @@
   },
   {
     "id": "item-clothes_amulet",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9485,6 +9857,8 @@
   },
   {
     "id": "item-clothes_napoleon",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9496,6 +9870,8 @@
   },
   {
     "id": "item-clothes_nba",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9507,6 +9883,8 @@
   },
   {
     "id": "item-clothes_toretto",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9518,6 +9896,8 @@
   },
   {
     "id": "item-clothes_security",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9529,6 +9909,8 @@
   },
   {
     "id": "item-clothes_senseira",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9540,6 +9922,8 @@
   },
   {
     "id": "item-clothes_senseiwu",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9551,6 +9935,8 @@
   },
   {
     "id": "item-clothes_vicecity",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9562,6 +9948,8 @@
   },
   {
     "id": "item-clothes_senseimi",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9573,6 +9961,8 @@
   },
   {
     "id": "item-clothes_clown",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9584,6 +9974,8 @@
   },
   {
     "id": "item-clothes_456",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9595,6 +9987,8 @@
   },
   {
     "id": "item-clothes_bee",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9606,6 +10000,8 @@
   },
   {
     "id": "item-clothes_mcd",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9617,6 +10013,8 @@
   },
   {
     "id": "item-clothes_jetpack",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9628,6 +10026,8 @@
   },
   {
     "id": "item-clothes_mantis",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9639,6 +10039,8 @@
   },
   {
     "id": "item-clothes_muscular",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9650,6 +10052,8 @@
   },
   {
     "id": "item-clothes_greenpeacetee",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9661,6 +10065,8 @@
   },
   {
     "id": "item-clothes_tabouret",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9672,6 +10078,8 @@
   },
   {
     "id": "item-clothes_tiktok",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9683,6 +10091,8 @@
   },
   {
     "id": "item-clothes_bdsm",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9694,6 +10104,8 @@
   },
   {
     "id": "item-clothes_ninja",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9705,6 +10117,8 @@
   },
   {
     "id": "item-clothes_dragonfire",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9716,6 +10130,8 @@
   },
   {
     "id": "item-clothes_gentlemangreen",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9727,6 +10143,8 @@
   },
   {
     "id": "item-clothes_mummy",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9738,6 +10156,8 @@
   },
   {
     "id": "item-clothes_mooncoat",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9749,6 +10169,8 @@
   },
   {
     "id": "item-clothes_bananajeans",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9760,6 +10182,8 @@
   },
   {
     "id": "item-clothes_wallstreet",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9771,6 +10195,8 @@
   },
   {
     "id": "item-clothes_yoda",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9782,6 +10208,8 @@
   },
   {
     "id": "item-clothes_rugby",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9793,6 +10221,8 @@
   },
   {
     "id": "item-clothes_bigboss",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9804,6 +10234,8 @@
   },
   {
     "id": "item-clothes_gentlemanblue",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9815,6 +10247,8 @@
   },
   {
     "id": "item-clothes_galaxy",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9826,6 +10260,8 @@
   },
   {
     "id": "item-clothes_martian",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9837,6 +10273,8 @@
   },
   {
     "id": "item-clothes_believe",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
@@ -9848,6 +10286,8 @@
   },
   {
     "id": "item-clothes_sparta",
+    "width": 48,
+    "height": 48,
     "animations": {
       "idle": {
         "length": 6,
