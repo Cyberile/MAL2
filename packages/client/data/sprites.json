@@ -1,6 +1,8 @@
 [
   {
     "id": "item-fur_green",
+    "width": 32,
+    "height": 32,
     "animations": {
       "idle": {
         "length": 6,
