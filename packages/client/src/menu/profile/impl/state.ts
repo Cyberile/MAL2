@@ -27,17 +27,17 @@ export default class State extends Menu {
     public constructor() {
         super('#state-page');
 
-        this.weapon.addEventListener('click', () =>
-            this.selectCallback?.(Modules.Equipment.Weapon)
-        );
-        this.armour.addEventListener('click', () =>
-            this.selectCallback?.(Modules.Equipment.Armour)
-        );
-        this.pendant.addEventListener('click', () =>
-            this.selectCallback?.(Modules.Equipment.Pendant)
-        );
-        this.ring.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Ring));
-        this.boots.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Boots));
+        // this.weapon.addEventListener('click', () =>
+        //     this.selectCallback?.(Modules.Equipment.Weapon)
+        // );
+        // this.armour.addEventListener('click', () =>
+        //     this.selectCallback?.(Modules.Equipment.Armour)
+        // );
+        // this.pendant.addEventListener('click', () =>
+        //     this.selectCallback?.(Modules.Equipment.Pendant)
+        // );
+        // this.ring.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Ring));
+        // this.boots.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Boots));
     }
 
     /**
@@ -49,19 +49,18 @@ export default class State extends Menu {
 
     public override synchronize(player: Player): void {
         // Synchronize the player's general information
-        this.name.textContent = player.name;
-        this.level.textContent = `Level ${player.level}`;
-        this.experience.textContent = `${player.experience}`;
-
-        // Synchronize equipment data
-        this.weapon.style.backgroundImage = Util.getImageURL(player.getWeapon().key);
-        // Cloth armour shouldn't be displayed in the UI.
-        this.armour.style.backgroundImage = Util.getImageURL(
-            player.getArmour().key === 'clotharmor' ? '' : player.getArmour().key
-        );
-        this.pendant.style.backgroundImage = Util.getImageURL(player.getPendant().key);
-        this.ring.style.backgroundImage = Util.getImageURL(player.getRing().key);
-        this.boots.style.backgroundImage = Util.getImageURL(player.getBoots().key);
+        // this.name.textContent = player.name;
+        // this.level.textContent = `Level ${player.level}`;
+        // this.experience.textContent = `${player.experience}`;
+        // // Synchronize equipment data
+        // this.weapon.style.backgroundImage = Util.getImageURL(player.getWeapon().key);
+        // // Cloth armour shouldn't be displayed in the UI.
+        // this.armour.style.backgroundImage = Util.getImageURL(
+        //     player.getFur().key === 'clotharmor' ? '' : player.getFur().key
+        // );
+        // this.pendant.style.backgroundImage = Util.getImageURL(player.getPendant().key);
+        // this.ring.style.backgroundImage = Util.getImageURL(player.getRing().key);
+        // this.boots.style.backgroundImage = Util.getImageURL(player.getBoots().key);
     }
 
     /**

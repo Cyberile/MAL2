@@ -700,34 +700,7 @@ export default class Player extends Character {
     }
 
     public getHit(target: Character): Hit | undefined {
-        let weapon = this.equipment.getWeapon(),
-            defaultDamage = Formulas.getDamage(this, target),
-            isSpecial = Utils.randomInt(0, 100) < 30 + weapon.abilityLevel * 3;
-
-        if (!isSpecial || !this.hasSpecialAttack())
-            return new Hit(Modules.Hits.Damage, defaultDamage);
-
-        let multiplier: number, damage: number;
-
-        switch (weapon.ability) {
-            case Modules.Enchantment.Critical:
-                /**
-                 * Still experimental, not sure how likely it is that you're
-                 * gonna do a critical strike. I just do not want it getting
-                 * out of hand, it's easier to buff than to nerf..
-                 */
-
-                multiplier = 1 + weapon.abilityLevel;
-                damage = defaultDamage * multiplier;
-
-                return new Hit(Modules.Hits.Critical, damage);
-
-            case Modules.Enchantment.Stun:
-                return new Hit(Modules.Hits.Stun, defaultDamage);
-
-            case Modules.Enchantment.Explosive:
-                return new Hit(Modules.Hits.Explosive, defaultDamage);
-        }
+        return new Hit(Modules.Hits.Damage, Formulas.getDamage(this, target));
     }
 
     public loadRegion(region: number): void {
@@ -788,7 +761,7 @@ export default class Player extends Character {
      */
 
     public override isRanged(): boolean {
-        return this.equipment.getWeapon().ranged;
+        return false;
     }
 
     /**
@@ -1005,7 +978,7 @@ export default class Player extends Character {
         let data = super.serialize() as PlayerData;
 
         // Sprite key is the armour key.
-        data.key = this.equipment.getArmour().key || 'clotharmor';
+        data.key = this.equipment.getFur().key || 'fur_green';
         data.name = Utils.formatName(this.username);
         data.rights = this.rights;
         data.level = this.level;

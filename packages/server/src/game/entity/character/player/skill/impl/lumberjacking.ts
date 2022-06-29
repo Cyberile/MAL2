@@ -32,10 +32,12 @@ export default class Lumberjacking extends Skill {
     public cut(player: Player, tree: Tree): void {
         if (tree.isCut()) return log.debug(`${player.username} attempted to cut already cut tree.`);
 
-        let weapon = player.equipment.getWeapon();
+        //TODO - Add scissor item checking.
 
-        // Player's weapon is not a valid lumberjacking weapon.
-        if (!weapon.isLumberjacking()) return player.notify(LumberjackingEn.INVALID_WEAPON);
+        // let weapon = player.equipment.getWeapon();
+
+        // // Player's weapon is not a valid lumberjacking weapon.
+        // if (!weapon.isLumberjacking()) return player.notify(LumberjackingEn.INVALID_WEAPON);
 
         let treeInfo = this.treeData[tree.type];
 
@@ -65,7 +67,7 @@ export default class Lumberjacking extends Skill {
             );
 
             // Use probability to check if we can cut the tree.
-            if (this.canCutTree(weapon.lumberjacking, treeInfo)) {
+            if (this.canCutTree(this.getLevel(), treeInfo)) {
                 // Add the logs to the inventory.
                 player.inventory.add(this.getLogs(treeInfo.item));
 

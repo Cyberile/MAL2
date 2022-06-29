@@ -106,9 +106,8 @@ export default {
          * The critical is the player's max hit plus *= critical multiplier of the weapon
          */
 
-        let weapon = attacker.equipment.getWeapon(),
-            damage = this.getDamage(attacker, target),
-            multiplier = weapon.abilityLevel / 10;
+        let damage = this.getDamage(attacker, target),
+            multiplier = 1 / 10;
 
         return (damage *= multiplier);
     },

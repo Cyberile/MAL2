@@ -101,11 +101,12 @@ export enum Abilities {
 }
 
 export enum Equipment {
-    Armour,
-    Boots,
-    Pendant,
-    Ring,
-    Weapon
+    Eyes,
+    Hat,
+    Clothes,
+    Mouth,
+    Fur,
+    Ears
 }
 
 export enum Hovering {

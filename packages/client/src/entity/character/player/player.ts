@@ -7,11 +7,12 @@ import { Modules } from '@kaetram/common/network';
 import Character from '../character';
 import Task from './task';
 import Skill from './skill';
-import Armour from './equipment/armour';
-import Boots from './equipment/boots';
-import Pendant from './equipment/pendant';
-import Ring from './equipment/ring';
-import Weapon from './equipment/weapon';
+import Eyes from './equipment/eyes';
+import Hat from './equipment/hat';
+import Clothes from './equipment/clothes';
+import Mouth from './equipment/mouth';
+import Fur from './equipment/fur';
+import Ears from './equipment/ears';
 
 import type Game from '../../../game';
 
@@ -53,11 +54,12 @@ export default class Player extends Character {
 
     // Mapping of all equipments to their type.
     public equipments = {
-        [Modules.Equipment.Armour]: new Armour(),
-        [Modules.Equipment.Boots]: new Boots(),
-        [Modules.Equipment.Pendant]: new Pendant(),
-        [Modules.Equipment.Ring]: new Ring(),
-        [Modules.Equipment.Weapon]: new Weapon()
+        [Modules.Equipment.Eyes]: new Eyes(),
+        [Modules.Equipment.Hat]: new Hat(),
+        [Modules.Equipment.Clothes]: new Clothes(),
+        [Modules.Equipment.Mouth]: new Mouth(),
+        [Modules.Equipment.Fur]: new Fur(),
+        [Modules.Equipment.Ears]: new Ears()
     };
 
     public skills = {
@@ -199,47 +201,55 @@ export default class Player extends Character {
      */
 
     public getSpriteName(): string {
-        return this.equipments[Modules.Equipment.Armour].key;
+        return this.equipments[Modules.Equipment.Fur].key;
     }
 
     /**
-     * @returns The armour object of the player.
+     * @returns The eys object of the player.
      */
 
-    public getArmour(): Armour {
-        return this.equipments[Modules.Equipment.Armour] as Armour;
+    public getEyes(): Eyes {
+        return this.equipments[Modules.Equipment.Eyes] as Eyes;
     }
 
     /**
-     * @returns The boots object of the player.
+     * @returns The hat object of the player.
      */
 
-    public getBoots(): Boots {
-        return this.equipments[Modules.Equipment.Boots] as Boots;
+    public getHat(): Hat {
+        return this.equipments[Modules.Equipment.Hat] as Hat;
     }
 
     /**
-     * @returns The pendant object of the player.
+     * @returns The clothes object of the player.
      */
 
-    public getPendant(): Pendant {
-        return this.equipments[Modules.Equipment.Pendant] as Pendant;
+    public getClothes(): Clothes {
+        return this.equipments[Modules.Equipment.Clothes] as Clothes;
     }
 
     /**
-     * @returns The ring object of the player.
+     * @returns The mouth object of the player.
      */
 
-    public getRing(): Ring {
-        return this.equipments[Modules.Equipment.Ring] as Ring;
+    public getMouth(): Mouth {
+        return this.equipments[Modules.Equipment.Mouth] as Mouth;
     }
 
     /**
      * @returns The weapon object of the player.
      */
 
-    public getWeapon(): Weapon {
-        return this.equipments[Modules.Equipment.Weapon] as Weapon;
+    public getFur(): Fur {
+        return this.equipments[Modules.Equipment.Fur] as Fur;
+    }
+
+    /**
+     * @returns The ears object of the player.
+     */
+
+    public getEars(): Ears {
+        return this.equipments[Modules.Equipment.Ears] as Ears;
     }
 
     /**
@@ -327,7 +337,8 @@ export default class Player extends Character {
      */
 
     public isRanged(): boolean {
-        return this.equipments[Modules.Equipment.Weapon].ranged;
+        return false;
+        //return this.equipments[Modules.Equipment.Weapon].ranged;
     }
 
     /**
@@ -335,7 +346,8 @@ export default class Player extends Character {
      */
 
     public override hasWeapon(): boolean {
-        return this.equipments[Modules.Equipment.Weapon].exists();
+        return false;
+        //return this.equipments[Modules.Equipment.Weapon].exists();
     }
 
     /**

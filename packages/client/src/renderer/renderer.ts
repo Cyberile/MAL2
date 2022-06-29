@@ -3,8 +3,9 @@ import _ from 'lodash';
 import Tile from './tile';
 import Camera from './camera';
 import Item from '../entity/objects/item';
-import { isMobile, isTablet } from '../utils/detect';
 import Character from '../entity/character/character';
+import Equipment from '../entity/character/player/equipment/equipment';
+import { isMobile, isTablet } from '../utils/detect';
 
 import type Player from '../entity/character/player/player';
 import type Entity from '../entity/entity';
@@ -14,7 +15,7 @@ import type Map from '../map/map';
 import type Splat from './infos/splat';
 
 import { RegionTile } from './../../../common/types/region';
-import { DarkMask, Lamp, Lighting, RectangleObject, Vec2 } from 'illuminated';
+import { DarkMask, Lamp, Lighting, Vec2 } from 'illuminated';
 
 import { Modules } from '@kaetram/common/network';
 import { SerializedLight } from '@kaetram/common/types/light';
@@ -777,7 +778,10 @@ export default class Renderer {
 
         if (!(entity instanceof Character)) return;
 
-        if (entity.isPlayer()) this.drawWeapon(entity as Player);
+        if (entity.isPlayer()) {
+            //
+        }
+
         if (entity.hasEffect()) this.drawEffect(entity);
     }
 
@@ -786,39 +790,41 @@ export default class Renderer {
      * this function if there is no weapon, the player is dead, or
      * they are teleporting.
      * @param player The player we are drawing the weapon for.
+     * @param equipment The equipment we are drawing.
      */
 
-    private drawWeapon(player: Player): void {
+    private drawEquipment(player: Player, equipment: Equipment): void {
         if (!player.hasWeapon() || player.dead || player.teleporting) return;
 
-        let weapon = this.game.sprites.get(player.getWeapon().key);
+        // Equipment sprite based on the key of the slot.
+        let sprite = this.game.sprites.get(equipment.key);
 
-        if (!weapon) return;
+        if (!sprite) return;
 
-        if (!weapon.loaded) weapon.load();
+        if (!sprite.loaded) sprite.load();
 
         let animation = player.animation!,
-            weaponAnimationData = weapon.animationData[animation.name],
+            animationData = sprite.animationData[animation.name],
             frame = animation.currentFrame,
             index =
-                frame.index < weaponAnimationData.length
+                frame.index < animationData.length
                     ? frame.index
-                    : frame.index % weaponAnimationData.length,
-            weaponX = weapon.width * index,
-            weaponY = weapon.height * animation.row,
-            weaponWidth = weapon.width,
-            weaponHeight = weapon.height;
+                    : frame.index % animationData.length,
+            spriteX = sprite.width * index,
+            spriteY = sprite.height * animation.row,
+            spriteWidth = sprite.width,
+            spriteHeight = sprite.height;
 
         this.entitiesContext.drawImage(
-            weapon.image,
-            weaponX,
-            weaponY,
-            weaponWidth,
-            weaponHeight,
-            weapon.offsetX,
-            weapon.offsetY,
-            weaponWidth,
-            weaponHeight
+            sprite.image,
+            spriteX,
+            spriteY,
+            spriteWidth,
+            spriteHeight,
+            sprite.offsetX,
+            sprite.offsetY,
+            spriteWidth,
+            spriteHeight
         );
     }
 

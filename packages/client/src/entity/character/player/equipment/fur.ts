@@ -1,9 +1,9 @@
 import Equipment from './equipment';
 
-export default class Armour extends Equipment {
+export default class Fur extends Equipment {
     public constructor(
-        key = 'clotharmor',
-        name = 'Cloth Armor',
+        key = 'fur_green',
+        name = 'Green Fur',
         count = 1,
         ability = -1,
         abilityLevel = -1,
@@ -20,8 +20,8 @@ export default class Armour extends Equipment {
      */
 
     public override update(
-        key = 'clotharmor',
-        name = 'Cloth Armor',
+        key = 'fur_green',
+        name = 'Green Fur',
         count = 0,
         ability = -1,
         abilityLevel = -1,

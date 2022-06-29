@@ -289,7 +289,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "fur_teal",
@@ -334,7 +334,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "fur_darkgreen",
@@ -379,7 +379,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "fur_maroon",
@@ -424,7 +424,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "fur_white",
@@ -469,7 +469,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "fur_bluejelly",
@@ -514,7 +514,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "fur_purplejelly",
@@ -559,7 +559,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "fur_greenjelly",
@@ -604,7 +604,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_redjelly",
@@ -649,7 +649,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_black",
@@ -694,7 +694,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_blackjelly",
@@ -739,7 +739,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_neonjelly",
@@ -784,7 +784,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_tattooed",
@@ -829,7 +829,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_terminator",
@@ -874,7 +874,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_whitetattooed",
@@ -919,7 +919,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_blackhole",
@@ -964,7 +964,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_skeletonblack",
@@ -1009,7 +1009,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "fur_matrix",
@@ -1054,7 +1054,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
 {
   "id": "item-eyes_eyes",
@@ -1580,7 +1580,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_aqua",
@@ -1625,7 +1625,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_ufo",
@@ -1670,7 +1670,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_jungle",
@@ -1715,7 +1715,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_astonished",
@@ -1760,7 +1760,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_greenpeace",
@@ -1805,7 +1805,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_shining",
@@ -1850,7 +1850,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_tricky",
@@ -1895,7 +1895,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_scared",
@@ -1940,7 +1940,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_sunglasses",
@@ -1985,7 +1985,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_bloody",
@@ -2030,7 +2030,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_shocked",
@@ -2075,7 +2075,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_tracking",
@@ -2120,7 +2120,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_rayban",
@@ -2165,7 +2165,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_angry",
@@ -2210,7 +2210,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_sleepy",
@@ -2255,7 +2255,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_redlinces",
@@ -2300,7 +2300,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_pirate",
@@ -2345,7 +2345,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_blind",
@@ -2390,7 +2390,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_chessplayer",
@@ -2435,7 +2435,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_human",
@@ -2480,7 +2480,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_robotic",
@@ -2525,7 +2525,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_illusion",
@@ -2570,7 +2570,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_handsome",
@@ -2615,7 +2615,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_unreachables",
@@ -2660,7 +2660,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_roundglasses",
@@ -2705,7 +2705,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_sutured",
@@ -2750,7 +2750,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_vr",
@@ -2795,7 +2795,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_laserred",
@@ -2840,7 +2840,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_laserblue",
@@ -2885,7 +2885,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_redbull",
@@ -2930,7 +2930,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_lasergreen",
@@ -2975,7 +2975,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_ringan",
@@ -3020,7 +3020,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_sunny",
@@ -3065,7 +3065,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_splinter",
@@ -3110,7 +3110,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_dope",
@@ -3155,7 +3155,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "eyes_unreality",
@@ -3200,7 +3200,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
 {
   "id": "item-ears_regular",
@@ -3492,7 +3492,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_piercing",
@@ -3537,7 +3537,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_locators",
@@ -3582,7 +3582,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_diamonds",
@@ -3627,7 +3627,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_mma",
@@ -3672,7 +3672,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_minotaur",
@@ -3717,7 +3717,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_shells",
@@ -3762,7 +3762,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_shrekky",
@@ -3807,7 +3807,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_rose",
@@ -3852,7 +3852,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_tunnels",
@@ -3897,7 +3897,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_headphonesorange",
@@ -3942,7 +3942,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_roboticblue",
@@ -3987,7 +3987,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_hairyears",
@@ -4032,7 +4032,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_roboticorange",
@@ -4077,7 +4077,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_headphonesblue",
@@ -4122,7 +4122,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_dragon",
@@ -4167,7 +4167,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_leafs",
@@ -4212,7 +4212,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_butterfly",
@@ -4257,7 +4257,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "ears_bat",
@@ -4302,7 +4302,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
 {
   "id": "item-mouth_unshavedsmoker",
@@ -4841,7 +4841,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_tired",
@@ -4886,7 +4886,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_neutralsmile",
@@ -4931,7 +4931,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_blunt",
@@ -4976,7 +4976,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_moonmonth",
@@ -5021,7 +5021,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_spacecigarette",
@@ -5066,7 +5066,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_rabbittooth",
@@ -5111,7 +5111,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_wisemanbeard",
@@ -5156,7 +5156,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_hotlips",
@@ -5201,7 +5201,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_redmaniacmask",
@@ -5246,7 +5246,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_hollywoodsmile",
@@ -5291,7 +5291,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_maniacmask",
@@ -5336,7 +5336,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_hologrammask",
@@ -5381,7 +5381,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_boredunshaved",
@@ -5426,7 +5426,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_angry",
@@ -5471,7 +5471,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_respirator",
@@ -5516,7 +5516,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_jokerface",
@@ -5561,7 +5561,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_energetic",
@@ -5606,7 +5606,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_ethereumbrushedteeth",
@@ -5651,7 +5651,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_goldentooth",
@@ -5696,7 +5696,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_alienmask",
@@ -5741,7 +5741,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_mustache",
@@ -5786,7 +5786,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_euphoria",
@@ -5831,7 +5831,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_brushedteeth",
@@ -5876,7 +5876,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_dirtymouth",
@@ -5921,7 +5921,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_moonpipe",
@@ -5966,7 +5966,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_multicoloredbraces",
@@ -6011,7 +6011,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_blueinkedtongue",
@@ -6056,7 +6056,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_lightsaberblue",
@@ -6101,7 +6101,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_mixofbubblegums",
@@ -6146,7 +6146,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_toxicethereum",
@@ -6191,7 +6191,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_vampire",
@@ -6236,7 +6236,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_ethereumtablet",
@@ -6281,7 +6281,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_rainbowsmile",
@@ -6326,7 +6326,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_lightsabergreen",
@@ -6371,7 +6371,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_berrylover",
@@ -6416,7 +6416,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_madmax",
@@ -6461,7 +6461,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "mouth_lightsaberred",
@@ -6506,7 +6506,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
 {
   "id": "item-hat_nohat",
@@ -7240,7 +7240,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_baseballhat",
@@ -7285,7 +7285,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_beanieorange",
@@ -7330,7 +7330,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_miner",
@@ -7375,7 +7375,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_moonforces",
@@ -7420,7 +7420,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_nitro",
@@ -7465,7 +7465,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_antman",
@@ -7510,7 +7510,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_pilot",
@@ -7555,7 +7555,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "Purple hat_beaniepurple",
@@ -7600,7 +7600,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_madeinvietnam",
@@ -7645,7 +7645,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_chritmas",
@@ -7690,7 +7690,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_airforce",
@@ -7735,7 +7735,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_professor",
@@ -7780,7 +7780,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_captainmo",
@@ -7825,7 +7825,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_frogster",
@@ -7870,7 +7870,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_mushroomed",
@@ -7915,7 +7915,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_tokyo",
@@ -7960,7 +7960,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_cutter",
@@ -8005,7 +8005,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_hipsta",
@@ -8050,7 +8050,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_bananzaa",
@@ -8095,7 +8095,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_harley",
@@ -8140,7 +8140,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_redbeanie",
@@ -8185,7 +8185,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_modelhaircut",
@@ -8230,7 +8230,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_taxidriver",
@@ -8275,7 +8275,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_gentleman",
@@ -8320,7 +8320,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_moonpolice",
@@ -8365,7 +8365,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_mozzart",
@@ -8410,7 +8410,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_traveller",
@@ -8455,7 +8455,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_bleeding",
@@ -8500,7 +8500,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_tastybrainblue",
@@ -8545,7 +8545,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_hairdresser",
@@ -8590,7 +8590,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_unicorn",
@@ -8635,7 +8635,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_fishermanhat",
@@ -8680,7 +8680,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_firehead",
@@ -8725,7 +8725,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_tastybrainred",
@@ -8770,7 +8770,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_icy",
@@ -8815,7 +8815,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_arabica",
@@ -8860,7 +8860,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_punk",
@@ -8905,7 +8905,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_toxicmushroom",
@@ -8950,7 +8950,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_panama",
@@ -8995,7 +8995,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_robinhood",
@@ -9040,7 +9040,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_tastybraingreen",
@@ -9085,7 +9085,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_cybernetica",
@@ -9130,7 +9130,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_exoticpunk",
@@ -9175,7 +9175,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_jokerhaircut",
@@ -9220,7 +9220,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_cryptocola",
@@ -9265,7 +9265,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_habib",
@@ -9310,7 +9310,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_kfced",
@@ -9355,7 +9355,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_rapper",
@@ -9400,7 +9400,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_rasta",
@@ -9445,7 +9445,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_southcentral",
@@ -9490,7 +9490,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_halo",
@@ -9535,7 +9535,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "hat_crowned",
@@ -9580,7 +9580,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "item-clothes_naked",
@@ -10340,7 +10340,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_sailor",
@@ -10385,7 +10385,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_bodybuilderyellow",
@@ -10430,7 +10430,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_snake",
@@ -10475,7 +10475,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_prisoner",
@@ -10520,7 +10520,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_skeleton",
@@ -10565,7 +10565,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_puffer",
@@ -10610,7 +10610,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_coatgreen",
@@ -10655,7 +10655,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_hospital",
@@ -10700,7 +10700,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_coatblue",
@@ -10745,7 +10745,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_ironman",
@@ -10790,7 +10790,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_rocker",
@@ -10835,7 +10835,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_skinhead",
@@ -10880,7 +10880,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_tick",
@@ -10925,7 +10925,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_surfer",
@@ -10970,7 +10970,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_redguard",
@@ -11015,7 +11015,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_archer",
@@ -11060,7 +11060,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_terrorist",
@@ -11105,7 +11105,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_survival",
@@ -11150,7 +11150,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_bodybuilderred",
@@ -11195,7 +11195,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_amulet",
@@ -11240,7 +11240,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_napoleon",
@@ -11285,7 +11285,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_nba",
@@ -11330,7 +11330,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_toretto",
@@ -11375,7 +11375,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_security",
@@ -11420,7 +11420,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_senseira",
@@ -11465,7 +11465,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_senseiwu",
@@ -11510,7 +11510,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_vicecity",
@@ -11555,7 +11555,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_senseimi",
@@ -11600,7 +11600,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_clown",
@@ -11645,7 +11645,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_456",
@@ -11690,7 +11690,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_bee",
@@ -11735,7 +11735,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_mcd",
@@ -11780,7 +11780,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_jetpack",
@@ -11825,7 +11825,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_mantis",
@@ -11870,7 +11870,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_muscular",
@@ -11915,7 +11915,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_greenpeacetee",
@@ -11960,7 +11960,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_tabouret",
@@ -12005,7 +12005,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_tiktok",
@@ -12050,7 +12050,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_bdsm",
@@ -12095,7 +12095,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_ninja",
@@ -12140,7 +12140,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_dragonfire",
@@ -12185,7 +12185,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_gentlemangreen",
@@ -12230,7 +12230,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_mummy",
@@ -12275,7 +12275,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_mooncoat",
@@ -12320,7 +12320,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_bananajeans",
@@ -12365,7 +12365,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_wallstreet",
@@ -12410,7 +12410,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_yoda",
@@ -12455,7 +12455,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_rugby",
@@ -12500,7 +12500,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_bigboss",
@@ -12545,7 +12545,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_gentlemanblue",
@@ -12590,7 +12590,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_galaxy",
@@ -12635,7 +12635,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_martian",
@@ -12680,7 +12680,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_believe",
@@ -12725,7 +12725,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "clothes_sparta",
@@ -12770,7 +12770,7 @@
       }
     },
     "offsetX": -23,
-    "offsetY": -23
+    "offsetY": -48
   },
     {
     "id": "adhererarcherarmor",
@@ -26988,7 +26988,7 @@
       }
     },
     "offsetX": -16,
-    "offsetY": -23
+    "offsetY": -48
   },
   {
     "id": "redsicklebow",

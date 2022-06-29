@@ -148,22 +148,23 @@ export default class Item extends Entity {
 
     public getEquipmentType(): Modules.Equipment {
         switch (this.itemType) {
-            case 'armour':
-            case 'armourarcher':
-                return Modules.Equipment.Armour;
+            case 'eyes':
+                return Modules.Equipment.Eyes;
 
-            case 'weapon':
-            case 'weaponarcher':
-                return Modules.Equipment.Weapon;
+            case 'hat':
+                return Modules.Equipment.Hat;
 
-            case 'pendant':
-                return Modules.Equipment.Pendant;
+            case 'clothes':
+                return Modules.Equipment.Clothes;
 
-            case 'boots':
-                return Modules.Equipment.Boots;
+            case 'mouth':
+                return Modules.Equipment.Mouth;
 
-            case 'ring':
-                return Modules.Equipment.Ring;
+            case 'fur':
+                return Modules.Equipment.Fur;
+
+            case 'ears':
+                return Modules.Equipment.Ears;
         }
 
         return -1;
@@ -178,13 +179,12 @@ export default class Item extends Entity {
 
     public isEquippable(): boolean {
         return (
-            this.itemType === 'armour' ||
-            this.itemType === 'armourarcher' ||
-            this.itemType === 'weapon' ||
-            this.itemType === 'weaponarcher' ||
-            this.itemType === 'pendant' ||
-            this.itemType === 'boots' ||
-            this.itemType === 'ring'
+            this.itemType === 'eyes' ||
+            this.itemType === 'hat' ||
+            this.itemType === 'clothes' ||
+            this.itemType === 'mouth' ||
+            this.itemType === 'fur' ||
+            this.itemType === 'ears'
         );
     }
 

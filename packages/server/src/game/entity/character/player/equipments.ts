@@ -6,29 +6,34 @@ import { EquipmentData, SerializedEquipment } from '@kaetram/common/types/equipm
 
 import Player from './player';
 
-import Armour from './equipment/impl/armour';
-import Boots from './equipment/impl/boots';
 import Equipment from './equipment/equipment';
-import Pendant from './equipment/impl/pendant';
-import Ring from './equipment/impl/ring';
-import Weapon from './equipment/impl/weapon';
+
+import Eyes from './equipment/impl/eyes';
+import Hat from './equipment/impl/hat';
+import Clothes from './equipment/impl/clothes';
+import Mouth from './equipment/impl/mouth';
+import Fur from './equipment/impl/fur';
+import Ears from './equipment/impl/ears';
+
 import Item from '../../objects/item';
 
 export default class Equipments {
-    private armour: Armour = new Armour();
-    private boots: Boots = new Boots();
-    private pendant: Pendant = new Pendant();
-    private ring: Ring = new Ring();
-    private weapon: Weapon = new Weapon();
+    private eyes: Eyes = new Eyes();
+    private hat: Hat = new Hat();
+    private clothes: Clothes = new Clothes();
+    private mouth: Mouth = new Mouth();
+    private fur: Fur = new Fur();
+    private ears: Ears = new Ears();
 
     // Store all equipments for parsing.
     // Make sure these are in the order of the enum.
     private equipments: Equipment[] = [
-        this.armour,
-        this.boots,
-        this.pendant,
-        this.ring,
-        this.weapon
+        this.eyes,
+        this.hat,
+        this.clothes,
+        this.mouth,
+        this.fur,
+        this.ears
     ];
 
     private loadCallback?: () => void;
@@ -135,53 +140,62 @@ export default class Equipments {
 
     /**
      * Supplemental getters for more easily accessing equipments.
-     * Instead of having to write `player.equipment.getEquipment(Modules.Equipment.Armour)`
-     * you can just use these getters -> `player.equipment.getArmour()`
+     * Instead of having to write `player.equipment.getEquipment(Modules.Equipment.Fur)`
+     * you can just use these getters -> `player.equipment.getFur()`
      */
 
     /**
-     * Grabs the armour equipment of the player.
-     * @returns Armour equipment type.
+     * Grabs the eyes equipment of the player.
+     * @returns Eyes equipment type.
      */
 
-    public getArmour(): Armour {
-        return this.getEquipment(Modules.Equipment.Armour);
+    public getEyes(): Eyes {
+        return this.getEquipment(Modules.Equipment.Eyes);
     }
 
     /**
-     * Grabs the boots equipment of the player.
-     * @returns Botos equipment type.
+     * Grabs the hat equipment of the player.
+     * @returns Hat equipment type.
      */
 
-    public getBoots(): Boots {
-        return this.getEquipment(Modules.Equipment.Boots);
+    public getHat(): Hat {
+        return this.getEquipment(Modules.Equipment.Hat);
     }
 
     /**
-     * Grabs the pendant equipment of the player.
-     * @returns Pendant equipment type.
+     * Grabs the clothes equipment of the player.
+     * @returns Clothes equipment type.
      */
 
-    public getPendant(): Pendant {
-        return this.getEquipment(Modules.Equipment.Pendant);
+    public getClothes(): Clothes {
+        return this.getEquipment(Modules.Equipment.Clothes);
     }
 
     /**
-     * Grabs the ring equipment of the player.
-     * @returns Ring equipment type.
+     * Grabs the mouth equipment of the player.
+     * @returns Mouth equipment type.
      */
 
-    public getRing(): Ring {
-        return this.getEquipment(Modules.Equipment.Ring);
+    public getMouth(): Mouth {
+        return this.getEquipment(Modules.Equipment.Mouth);
     }
 
     /**
-     * Grabs the weapon equipment of the player.
-     * @returns Weapon equipment type.
+     * Grabs the fur equipment of the player.
+     * @returns Fur equipment type.
      */
 
-    public getWeapon(): Weapon {
-        return this.getEquipment(Modules.Equipment.Weapon);
+    public getFur(): Fur {
+        return this.getEquipment(Modules.Equipment.Fur);
+    }
+
+    /**
+     * Grabs the ears equipment for the player.
+     * @returns Ears equipment object.
+     */
+
+    public getEars(): Ears {
+        return this.getEquipment(Modules.Equipment.Ears);
     }
 
     /**

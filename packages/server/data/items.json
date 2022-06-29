@@ -1,1329 +1,1329 @@
 {
   "fur_green": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Green"
   },
 
   "fur_teal": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Teal"
   },
 
   "fur_darkgreen": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Dark Green"
   },
 
   "fur_maroon": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Maroon"
   },
 
   "fur_white": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "White"
   },
 
   "fur_bluejelly": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Blue Jelly"
   },
 
   "fur_brown": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Brown"
   },
 
   "fur_purplejelly": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Purple Jelly"
   },
 
   "fur_greenjelly": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Green Jelly"
   },
 
   "fur_redjelly": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Red Jelly"
   },
 
   "fur_black": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Black"
   },
 
   "fur_blackjelly": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Black Jelly"
   },
 
   "fur_neonjelly": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Neon Jelly"
   },
 
   "fur_tattooed": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Tattooed"
   },
 
   "fur_terminator": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Terminator"
   },
 
   "fur_whitetattooed": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "White Tattooed"
   },
 
   "fur_blackhole": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Blackhole"
   },
 
   "fur_skeletonblack": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Skeleton Black"
   },
 
   
   "fur_matrix": {
     "defense": 1,
-    "type": "armour",
+    "type": "fur",
     "name": "Matrix"
   },
 
     "eyes_eyes": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Eyes"
     },
 
     "eyes_aqua": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Aqua"
     },
 
     "eyes_ufo": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Ufo"
     },
 
     "eyes_jungle": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Jungle"
     },
 
     "eyes_astonished": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Astonished"
     },
 
     "eyes_greenpeace": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Greenpeace"
     },
 
     "eyes_shining": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Shining"
     },
 
     "eyes_tricky": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Tricky"
     },
 
     "eyes_scared": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Scared"
     },
 
     "eyes_sunglasses": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Sunglasses"
     },
 
     "eyes_bloody": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Bloody"
     },
 
     "eyes_shocked": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Shocked"
     },
 
     "eyes_tracking": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Tracking"
     },
 
     "eyes_rayban": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Rayban"
     },
 
     "eyes_angry": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Angry"
     },
 
     "eyes_sleepy": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Sleepy"
     },
 
     "eyes_redlinces": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Red Linces"
     },
 
     "eyes_pirate": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Pirate"
     },
 
     "eyes_blind": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Blind"
     },
 
     "eyes_chessplayer": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Chess Player"
     },
 
     "eyes_human": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Human"
     },
 
     "eyes_robotic": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Robotic"
     },
 
     "eyes_illusion": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Illusion"
     },
 
     "eyes_handsome": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Handsome"
     },
 
     "eyes_unreachables": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Unreachables"
     },
 
     "eyes_roundglasses": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Round Glasses"
     },
 
     "eyes_sutured": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Sutured"
     },
 
     "eyes_vr": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "VR"
     },
 
     "eyes_laserred": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Laser red"
     },
 
     "eyes_laserblue": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Laser Blue"
     },
 
     "eyes_redbull": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Redbull"
     },
 
     "eyes_lasergreen": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Laser Green"
     },
 
     "eyes_ringan": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Ringan"
     },
 
     "eyes_sunny": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Sunny"
     },
 
     "eyes_splinter": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Splinter"
     },
 
     "eyes_dope": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Dope"
     },
 
     "eyes_unreality": {
-      "type": "weapon",
+      "type": "eyes",
       "attack": 2,
       "name": "Unreality"
     },
 
   "ears_regular": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Regular"
   },
 
   "ears_piercing": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Piercing"
   },
 
   "ears_locators": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Locators"
   },
 
   "ears_diamonds": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Diamonds"
   },
 
   "ears_mma": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "MMA"
   },
 
   "ears_minotaur": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Minotaur"
   },
 
   "ears_shells": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Shells"
   },
 
   "ears_shrekky": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Shrekky"
   },
 
   "ears_rose": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Rose"
   },
 
   "ears_tunnels": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Tunnels"
   },
 
   "ears_headphonesorange": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Headphones Orange"
   },
 
   "ears_roboticblue": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Robotic Blue"
   },
 
   "ears_hairyears": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Hairy Ears"
   },
 
   "ears_roboticorange": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Robotic Orange"
   },
 
   "ears_headphonesblue": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Headphones Blue"
   },
 
   "ears_dragon": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Dragon"
   },
 
   "ears_leafs": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Leafs"
   },
 
   "ears_butterfly": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Butterfly"
   },
 
   "ears_bat": {
-    "type": "weapon",
+    "type": "ears",
     "attack": 2,
     "name": "Bat"
   },
   
 
     "mouth_unshavedsmoker": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Unshaved Smoker"
     },
   
     "mouth_tired": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Tired"
     },
   
     "mouth_neutralsmile": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Neutral Smile"
     },
   
     "mouth_blunt": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Blunt"
     },
   
     "mouth_moonmonth": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Moon Month"
     },
   
     "mouth_spacecigarette": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Space Cigarette"
     },
   
     "mouth_rabbittooth": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Rabbit Tooth"
     },
   
     "mouth_wisemanbeard": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Wiseman Beard"
     },
   
     "mouth_hotlips": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Hotlips"
     },
   
     "mouth_redmaniacmask": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Red Maniac Mask"
     },
   
     "mouth_hollywoodsmile": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Hollywood Smile"
     },
   
     "mouth_maniacmask": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Maniac Mask"
     },
   
     "mouth_hologrammask": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Hologram Mask"
     },
   
     "mouth_boredunshaved": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Bored Shaved"
     },
   
     "mouth_angry": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Angry"
     },
   
     "mouth_respirator": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Respirator"
     },
   
     "mouth_jokerface": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Joker Face"
     },
   
     "mouth_energetic": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Energetic"
     },
   
     "mouth_ethereumbrushedteeth": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Ethereum Brushed Teeth"
     },
   
     "mouth_goldentooth": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Golden Tooth"
     },
   
     "mouth_alienmask": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Alien Mask"
     },
   
     "mouth_mustache": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Mustache"
     },
   
     "mouth_euphoria": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Euphoria"
     },
   
     "mouth_brushedteeth": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Brushed Teeth"
     },
   
     "mouth_dirtymouth": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Dirty Mouth"
     },
   
     "mouth_moonpipe": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Moon Pipe"
     },
   
     "mouth_multicoloredbraces": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Multicolored Braces"
     },
   
     "mouth_blueinkedtongue": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Blue Inked Tongue"
     },
   
     "mouth_lightsaberblue": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Light Saber Blue"
     },
   
     "mouth_mixofbubblegums": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Mix of Bubblegums"
     },
   
     "mouth_toxicethereum": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Toxic Ethereum"
     },
   
     "mouth_vampire": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Vampire"
     },
   
     "mouth_ethereumtablet": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Ethereum Tablet"
     },
   
     "mouth_rainbowsmile": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Rainbow Smile"
     },
   
     "mouth_lightsabergreen": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Light Saber Green"
     },
   
     "mouth_berrylover": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Berry Lover"
     },
   
     "mouth_madmax": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "MadMax"
     },
   
     "mouth_lightsaberred": {
-      "type": "weapon",
+      "type": "mouth",
       "attack": 2,
       "name": "Light Saber Red"
     },
 
   "hat_nohat": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "No Hat"
   },
 
   "hat_baseballhat": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Baseball Hat"
   },
 
   "hat_beanieorange": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Beanie Orange"
   },
 
   "hat_miner": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Miner"
   },
 
   "hat_moonforces": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Moon Forces"
   },
 
   "hat_nitro": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Nitro"
   },
 
   "hat_antman": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Antman"
   },
 
   "hat_pilot": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Pilot"
   },
 
   "hat_beaniepurple": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Beanie Purple"
   },
 
   "hat_madeinvietnam": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Made in Vietnam"
   },
 
   "hat_chritmas": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Chritmas"
   },
 
   "hat_airforce": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Airforce"
   },
 
   "hat_professor": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Professor"
   },
 
   "hat_captainmo": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Captain Mo"
   },
 
   "hat_frogster": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Frogster"
   },
 
   "hat_mushroomed": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Mushroomed"
   },
 
   "hat_tokyo": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Tokyo"
   },
 
   "hat_cutter": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Cutter"
   },
 
   "hat_hipsta": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Hipsta"
   },
 
   "hat_bananzaa": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Bananzaa"
   },
 
   "hat_harley": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Harley"
   },
 
   "hat_redbeanie": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Red Beanie"
   },
 
   "hat_modelhaircut": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Model Haircut"
   },
 
   "hat_taxidriver": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Taxi Driver"
   },
 
   "hat_gentleman": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Gentleman"
   },
 
   "hat_moonpolice": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Moon Police"
   },
 
   "hat_mozzart": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Mozzart"
   },
 
   "hat_traveller": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Traveller"
   },
 
   "hat_bleeding": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Bleeding"
   },
 
   "hat_tastybrainblue": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Tasty Brain Blue"
   },
 
   "hat_hairdresser": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Hairdesser"
   },
 
   "hat_unicorn": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Unicorn"
   },
 
   "hat_fishermanhat": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Fisherman Hat"
   },
 
   "hat_firehead": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Fire Head"
   },
 
   "hat_tastybrainred": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Tasty Brain Red"
   },
 
   "hat_icy": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Icy"
   },
 
   "hat_arabica": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Arabica"
   },
 
   "hat_punk": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Punk"
   },
 
   "hat_toxicmushroom": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Toxic Mushroom"
   },
 
   "hat_panama": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Panama"
   },
 
   "hat_robinhood": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Robinhood"
   },
 
   "hat_tastybraingreen": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Tasty Brain Green"
   },
 
   "hat_cybernetica": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Cybernetica"
   },
 
   "hat_exoticpunk": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Exotic Punk"
   },
 
   "hat_jokerhaircut": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Joker Haircut"
   },
 
   "hat_cryptocola": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Crypto Cola"
   },
 
   "hat_habib": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Habib"
   },
 
   "hat_kfced": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "KFCed"
   },
 
   "hat_rapper": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Rapper"
   },
 
   "hat_rasta": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Rasta"
   },
 
   "hat_southcentral": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "South Central"
   },
 
   "hat_halo": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Halo"
   },
 
   "hat_crowned": {
-    "type": "weapon",
+    "type": "hat",
     "attack": 2,
     "name": "Crowned"
   },
   
 
  "clothes_naked": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Naked"
 },
 
 "clothes_sailor": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Sailor"
 },
 
 "clothes_bodybuilderyellow": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Bodybuilder Yellow"
 },
 
 "clothes_snake": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Snake"
 },
 
 "clothes_prisoner": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Prisoner"
 },
 
 "clothes_skeleton": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Skeleton"
 },
 
 "clothes_puffer": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Puffer"
 },
 
 "clothes_coatgreen": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Coat Green"
 },
 
 "clothes_hospital": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Hospital"
 },
 
 "clothes_coatblue": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Coat Blue"
 },
 
 "clothes_ironman": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Ironman"
 },
 
 "clothes_rocker": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Rocker"
 },
 
 "clothes_skinhead": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Skinhead"
 },
 
 "clothes_tick": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Tick"
 },
 
 "clothes_surfer": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Surfer"
 },
 
 "clothes_redguard": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Redguard"
 },
 
 "clothes_archer": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Archer"
 },
 
 "clothes_terrorist": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Terrorist"
 },
 
 "clothes_survival": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Survival"
 },
 
 "clothes_bodybuilderred": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Bodybuilder Red"
 },
 
 "clothes_amulet": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Amulet"
 },
 
 "clothes_napoleon": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Napoleon"
 },
 
 "clothes_nba": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "NBA"
 },
 
 "clothes_toretto": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Toretto"
 },
 
 "clothes_security": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Security"
 },
 
 "clothes_senseira": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Sensei Ra"
 },
 
 "clothes_senseiwu": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Sensei Wu"
 },
 
 "clothes_vicecity": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Vice City"
 },
 
 "clothes_senseimi": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Sensei Mi"
 },
 
 "clothes_clown": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Clown"
 },
 
 "clothes_456": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "456"
 },
 
 "clothes_bee": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Bee"
 },
 
 "clothes_mcd": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "MCD"
 },
 
 "clothes_jetpack": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Jetpack"
 },
 
 "clothes_mantis": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Mantis"
 },
 
 "clothes_muscular": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Muscular"
 },
 
 "clothes_greenpeacetee": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Greenpeace Tee"
 },
 
 "clothes_tabouret": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Tabouret"
 },
 
 "clothes_tiktok": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "TikTok"
 },
 
 "clothes_bdsm": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "BDSM"
 },
 
 "clothes_ninja": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Ninja"
 },
 
 "clothes_dragonfire": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Dragonfire"
 },
 
 "clothes_gentlemangreen": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Gentleman Green"
 },
 
 "clothes_mummy": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Mummy"
 },
 
 "clothes_mooncoat": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Moon Coat"
 },
 
 "clothes_bananajeans": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Banana Jeans"
 },
 
 "clothes_wallstreet": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Wallstreet"
 },
 
 "clothes_yoda": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Yoda"
 },
 
 "clothes_rugby": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Rugby"
 },
 
 "clothes_bigboss": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Bigboss"
 },
 
 "clothes_gentlemanblue": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Gentleman Blue"
 },
 
 "clothes_galaxy": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Galaxy"
 },
 
 "clothes_martian": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Martian"
 },
 
 "clothes_believe": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Believe"
 },
 
 "clothes_sparta": {
-  "type": "weapon",
+  "type": "clothes",
   "attack": 2,
   "name": "Sparta"
 },
