@@ -13,31 +13,26 @@ export default class State extends Menu {
     private experience: HTMLElement = document.querySelector('#profile-experience')!;
 
     // Equipment information
-    private weapon: HTMLElement = document.querySelector('#weapon-slot')!;
-    private weaponInfo: HTMLElement = document.querySelector('#weapon-slot-info')!;
-    private armour: HTMLElement = document.querySelector('#armour-slot')!;
-    private armourInfo: HTMLElement = document.querySelector('#armour-slot-info')!;
-
-    private pendant: HTMLElement = document.querySelector('#pendant-slot')!;
-    private ring: HTMLElement = document.querySelector('#ring-slot')!;
-    private boots: HTMLElement = document.querySelector('#boots-slot')!;
+    private eyes: HTMLElement = document.querySelector('#eyes-slot')!;
+    private hat: HTMLElement = document.querySelector('#hat-slot')!;
+    private clothes: HTMLElement = document.querySelector('#clothes-slot')!;
+    private mouth: HTMLElement = document.querySelector('#mouth-slot')!;
+    private fur: HTMLElement = document.querySelector('#fur-slot')!;
+    private ears: HTMLElement = document.querySelector('#ears-slot')!;
 
     private selectCallback?: SelectCallback;
 
     public constructor() {
         super('#state-page');
 
-        // this.weapon.addEventListener('click', () =>
-        //     this.selectCallback?.(Modules.Equipment.Weapon)
-        // );
-        // this.armour.addEventListener('click', () =>
-        //     this.selectCallback?.(Modules.Equipment.Armour)
-        // );
-        // this.pendant.addEventListener('click', () =>
-        //     this.selectCallback?.(Modules.Equipment.Pendant)
-        // );
-        // this.ring.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Ring));
-        // this.boots.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Boots));
+        this.eyes.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Eyes));
+        this.hat.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Hat));
+        this.clothes.addEventListener('click', () =>
+            this.selectCallback?.(Modules.Equipment.Clothes)
+        );
+        this.mouth.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Mouth));
+        this.fur.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Fur));
+        this.ears.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Ears))
     }
 
     /**
@@ -49,18 +44,20 @@ export default class State extends Menu {
 
     public override synchronize(player: Player): void {
         // Synchronize the player's general information
-        // this.name.textContent = player.name;
-        // this.level.textContent = `Level ${player.level}`;
-        // this.experience.textContent = `${player.experience}`;
-        // // Synchronize equipment data
-        // this.weapon.style.backgroundImage = Util.getImageURL(player.getWeapon().key);
-        // // Cloth armour shouldn't be displayed in the UI.
-        // this.armour.style.backgroundImage = Util.getImageURL(
-        //     player.getFur().key === 'clotharmor' ? '' : player.getFur().key
-        // );
-        // this.pendant.style.backgroundImage = Util.getImageURL(player.getPendant().key);
-        // this.ring.style.backgroundImage = Util.getImageURL(player.getRing().key);
-        // this.boots.style.backgroundImage = Util.getImageURL(player.getBoots().key);
+        this.name.textContent = player.name;
+        this.level.textContent = `Level ${player.level}`;
+        this.experience.textContent = `${player.experience}`;
+
+        // Synchronize equipment data
+        this.eyes.style.backgroundImage = Util.getImageURL(player.getEyes().key);
+        this.hat.style.backgroundImage = Util.getImageURL(player.getHat().key);
+        this.clothes.style.backgroundImage = Util.getImageURL(player.getClothes().key);
+        this.mouth.style.backgroundImage = Util.getImageURL(player.getMouth().key);
+        // Default green fur shouldn't be displayed in the equipment screen.
+        this.fur.style.backgroundImage = Util.getImageURL(
+            player.getFur().key === 'fur_green' ? '' : player.getFur().key
+        );
+        this.ears.style.backgroundImage = Util.getImageURL(player.getEars().key);
     }
 
     /**

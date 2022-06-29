@@ -899,49 +899,50 @@
             left: 24px * $i;
         }
 
-        #weapon-slot-info {
-            top: 123px * $i;
-            left: 22px * $i;
-        }
-
         #armour-slot-info {
             width: 102px * $i;
             top: 123px * $i;
             text-align: right;
         }
 
-        #weapon-slot,
-        #armour-slot,
-        #pendant-slot,
-        #ring-slot,
-        #boots-slot {
+        #eyes-slot,
+        #hat-slot,
+        #clothes-slot,
+        #mouth-slot,
+        #fur-slot,
+        #ears-slot {
             margin-top: -2px * $i;
             background-size: 600%;
         }
 
-        #weapon-slot {
-            left: 4px * $i;
-            top: 120px * $i;
+        #eyes-slot {
+            left: 55px * $i;
+            top: 68px * $i;
         }
 
-        #armour-slot {
-            left: 104px * $i;
-            top: 119px * $i;
+        #hat-slot {
+            left: 100px * $i;
+            top: 93px * $i;
         }
 
-        #pendant-slot {
-            left: 54px * $i;
-            top: 78px * $i;
+        #clothes-slot {
+            left: 100px * $i;
+            top: 99px * $i;
         }
 
-        #ring-slot {
-            left: 27px * $i;
-            top: 172px * $i;
-        }
-
-        #boots-slot {
-            left: 82px * $i;
+        #mouth-slot {
+            left: 55px * $i;
             top: 173px * $i;
+        }
+
+        #fur-slot {
+            left: 10px * $i;
+            top: 149px * $i;
+        }
+
+        #ears-slot {
+            left: 10px * $i;
+            top: 93px * $i;
         }
 
         #profile-name {

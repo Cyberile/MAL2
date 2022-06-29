@@ -771,6 +771,7 @@ export default class Renderer {
      * on top of the entity (after rendering). It will primarily
      * be used for the paper-doll effect of drawing weapon and
      * armour sprites on top of the player characters.
+     * @param entity The entity we are drawing.
      */
 
     private drawEntityFore(entity: Entity): void {
@@ -779,7 +780,11 @@ export default class Renderer {
         if (!(entity instanceof Character)) return;
 
         if (entity.isPlayer()) {
-            //
+            this.drawEquipment(entity as Player, (entity as Player).getEyes());
+            this.drawEquipment(entity as Player, (entity as Player).getHat());
+            this.drawEquipment(entity as Player, (entity as Player).getClothes());
+            this.drawEquipment(entity as Player, (entity as Player).getMouth());
+            this.drawEquipment(entity as Player, (entity as Player).getEars());
         }
 
         if (entity.hasEffect()) this.drawEffect(entity);
