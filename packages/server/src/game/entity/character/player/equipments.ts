@@ -108,6 +108,8 @@ export default class Equipments {
 
         let equipment = this.getEquipment(type);
 
+        if (equipment.isEmpty()) return;
+
         this.player.inventory.add(
             new Item(
                 equipment.key,

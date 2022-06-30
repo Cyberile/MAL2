@@ -32,7 +32,7 @@ export default class State extends Menu {
         );
         this.mouth.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Mouth));
         this.fur.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Fur));
-        this.ears.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Ears))
+        this.ears.addEventListener('click', () => this.selectCallback?.(Modules.Equipment.Ears));
     }
 
     /**

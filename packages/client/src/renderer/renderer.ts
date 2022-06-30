@@ -799,7 +799,7 @@ export default class Renderer {
      */
 
     private drawEquipment(player: Player, equipment: Equipment): void {
-        if (!player.hasWeapon() || player.dead || player.teleporting) return;
+        if (!equipment.exists() || player.dead || player.teleporting) return;
 
         // Equipment sprite based on the key of the slot.
         let sprite = this.game.sprites.get(equipment.key);
