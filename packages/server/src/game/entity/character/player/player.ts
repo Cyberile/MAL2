@@ -47,7 +47,8 @@ import {
     Sync,
     Teleport,
     Welcome,
-    Pointer
+    Pointer,
+    NoPath
 } from '@kaetram/server/src/network/packets';
 import { ExperiencePacket, OverlayPacket } from '@kaetram/common/types/messages/outgoing';
 
@@ -128,6 +129,8 @@ export default class Player extends Character {
     public regionsLoaded: number[] = [];
     public treesLoaded: { [instance: string]: Modules.TreeState } = {};
     public lightsLoaded: number[] = [];
+
+    public noPathing = false;
 
     public npcTalk = '';
     // Currently open store of the player.
@@ -555,6 +558,23 @@ export default class Player extends Character {
                     break;
             }
         else this.send(new Camera(Opcodes.Camera.FreeFlow));
+    }
+
+    /**
+     * Synchronizes the no-pathing flag with the client and updates
+     * the player's status on whether or not they can use the pathfinder.
+     * @param area The no-pathing area or undefined if exiting.
+     */
+
+    public updateNoPathing(area: Area | undefined): void {
+        if (this.noPathing === !!area) return;
+
+        this.noPathing = !!area;
+
+        this.send(new NoPath(this.noPathing));
+
+        if (this.noPathing) this.notify('You have entered a no-pathing area!');
+        else this.notify('You are no longer in a no-pathing area.');
     }
 
     public updateMusic(info?: Area): void {

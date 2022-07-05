@@ -302,3 +302,7 @@ export type BubbleCallback = (info: BubblePacket) => void;
 export type SkillPacket = SerializedSkills | SkillData;
 
 export type SkillCallback = (opcode: Opcodes.Skill, info: SkillPacket) => void;
+
+////////////////////////////////////////////////////////////////////////////////
+
+export type NoPathCallback = (status: boolean) => void;

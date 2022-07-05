@@ -44,6 +44,8 @@ export default class Player extends Character {
 
     public moving = false;
 
+    public noPath = false;
+
     public override hitPoints = -1;
     public override maxHitPoints = -1;
 

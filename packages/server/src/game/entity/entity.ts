@@ -101,7 +101,7 @@ abstract class Entity {
      * @returns The approximate distance in tiles between entities.
      */
 
-    public getDistance(entity: Entity): number {
+    public getDistance(entity: Entity | Position): number {
         let x = Math.abs(this.x - entity.x),
             y = Math.abs(this.y - entity.y);
 
@@ -126,11 +126,11 @@ abstract class Entity {
 
     /**
      * Checks if an entity is next to the current entity object.
-     * @param entity Entity are checking distance of.
+     * @param entity Entity or position object we are checking distance to.
      * @returns Whether the distance of the entity we are checking is at MOST 1 block away.
      */
 
-    public isAdjacent(entity: Entity): boolean {
+    public isAdjacent(entity: Entity | Position): boolean {
         return this.getDistance(entity) < 2;
     }
 

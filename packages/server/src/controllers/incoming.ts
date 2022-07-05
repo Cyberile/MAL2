@@ -234,6 +234,15 @@ export default class Incoming {
 
         switch (opcode) {
             case Opcodes.Movement.Started:
+                // Prevent movement if pathfinding is disabled.
+                if (
+                    this.player.noPathing &&
+                    !this.player.isAdjacent({ x: requestX, y: requestY } as Position)
+                )
+                    return this.player.notify(
+                        'Pathfinding is currently disabled, you may only move adjacent to your current position.'
+                    );
+
                 this.player.movementStart = Date.now();
 
                 if (movementSpeed !== this.player.movementSpeed) this.player.incrementCheatScore(1);

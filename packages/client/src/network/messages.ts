@@ -41,7 +41,8 @@ import type {
     OverlayCallback,
     CameraCallback,
     BubbleCallback,
-    SkillCallback
+    SkillCallback,
+    NoPathCallback
 } from '@kaetram/common/types/messages/outgoing';
 
 export default class Messages {
@@ -85,6 +86,7 @@ export default class Messages {
     private cameraCallback?: CameraCallback;
     private bubbleCallback?: BubbleCallback;
     private skillCallback?: SkillCallback;
+    private noPathCallback?: NoPathCallback;
 
     /**
      * Do not clutter up the Socket class with callbacks,
@@ -96,6 +98,7 @@ export default class Messages {
      * Please respect the order of the Packets Enum and arrange functions
      * accordingly.
      */
+
     public constructor(private game: Game) {
         let messages: (() => ((...data: never[]) => void) | undefined)[] = [];
 
@@ -136,6 +139,7 @@ export default class Messages {
         messages[Packets.Camera] = () => this.cameraCallback;
         messages[Packets.Bubble] = () => this.bubbleCallback;
         messages[Packets.Skill] = () => this.skillCallback;
+        messages[Packets.NoPath] = () => this.noPathCallback;
 
         this.messages = messages;
     }
@@ -376,5 +380,9 @@ export default class Messages {
 
     public onSkill(callback: SkillCallback): void {
         this.skillCallback = callback;
+    }
+
+    public onNoPath(callback: NoPathCallback): void {
+        this.noPathCallback = callback;
     }
 }

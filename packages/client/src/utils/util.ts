@@ -137,5 +137,21 @@ export default {
         return /^(([^\s"(),.:;<>@[\\\]]+(\.[^\s"(),.:;<>@[\\\]]+)*)|(".+"))@((\[(?:\d{1,3}\.){3}\d{1,3}])|(([\dA-Za-z-]+\.)+[A-Za-z]{2,}))$/.test(
             email
         );
+    },
+
+    /**
+     * Checks if two specified grid coordinates are adjacent to each other.
+     * @param startX The start x grid coordinate.
+     * @param startY The start y grid coordinate.
+     * @param endX The end x grid coordinate.
+     * @param endY The end y grid coordinate.
+     * @returns Whether or not the distance between the start and end coordinates is less than 2.
+     */
+
+    isAdjacent(startX: number, startY: number, endX: number, endY: number): boolean {
+        let x = Math.abs(startX - endX),
+            y = Math.abs(startY - endY);
+
+        return (x > y ? x : y) < 2;
     }
 };

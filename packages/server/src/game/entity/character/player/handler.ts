@@ -519,6 +519,9 @@ export default class Handler {
 
                 case 'camera':
                     return this.player.updateCamera(info);
+
+                case 'nopath':
+                    return this.player.updateNoPathing(info);
             }
         });
     }

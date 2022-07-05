@@ -53,7 +53,7 @@ import {
     RespawnPacket,
     StorePacket,
     TeleportPacket,
-    SkillPacket
+    SkillPacket,
 } from '@kaetram/common/types/messages/outgoing';
 
 export default class Connection {
@@ -122,6 +122,7 @@ export default class Connection {
         this.messages.onCamera(this.handleCamera.bind(this));
         this.messages.onBubble(this.handleBubble.bind(this));
         this.messages.onSkill(this.handleSkill.bind(this));
+        this.messages.onNoPath(this.handleNoPath.bind(this));
     }
 
     /**
@@ -1009,5 +1010,15 @@ export default class Connection {
         }
 
         this.game.menu.synchronize();
+    }
+
+    /**
+     * Updates the player's no-pathing status with the server.
+     * @param info Boolean value of the no-pathing flag.
+     */
+
+    private handleNoPath(info: boolean): void {
+        this.game.player.noPath = info;
+        console.log(`Received no-path: ${info}`);
     }
 }

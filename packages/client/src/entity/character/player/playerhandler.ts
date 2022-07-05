@@ -7,6 +7,7 @@ import type Renderer from '../../../renderer/renderer';
 import type Game from '../../../game';
 import type Player from './player';
 
+import Utils from '../../../utils/util';
 import { Packets, Opcodes } from '@kaetram/common/network';
 
 export default class PlayerHandler {
@@ -36,6 +37,9 @@ export default class PlayerHandler {
             let isObject = map.isObject(x, y);
 
             if (player.gridX === x && player.gridY === y) return [];
+            if (player.noPath && !Utils.isAdjacent(player.gridX, player.gridY, x, y)) return [];
+
+            console.log(Utils.isAdjacent(player.gridX, player.gridY, x, y));
 
             let ignores = [];
 
