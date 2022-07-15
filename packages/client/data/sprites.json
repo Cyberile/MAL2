@@ -6684,7 +6684,7 @@
   "offsetY": 0
 },
 {
-  "id": "item-hat_chritmas",
+  "id": "item-hat_christmas",
   "width": 48,
   "height": 48,
   "animations": {
@@ -7693,7 +7693,7 @@
     "offsetY": -48
   },
     {
-    "id": "hat_chritmas",
+    "id": "hat_christmas",
     "width": 96,
     "height": 96,
     "animations": {

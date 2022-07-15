@@ -739,10 +739,10 @@
     "name": "Made in Vietnam"
   },
 
-  "hat_chritmas": {
+  "hat_christmas": {
     "type": "hat",
     "attack": 2,
-    "name": "Chritmas"
+    "name": "Christmas"
   },
 
   "hat_airforce": {
